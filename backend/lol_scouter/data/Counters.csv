@@ -1,0 +1,1021 @@
+﻿champion,relation_type,rank,related_champion,estimated_winrate_vs_champion,estimated_delta,matchup_reason,source_type
+Aatrox,countered_by,1,Fiora,45.13,-5.67,castiga engages o dashes,curated_core
+Aatrox,countered_by,2,Irelia,47.68,-4.01,tiene mejor rango y control de oleada,curated_core
+Aatrox,countered_by,3,Kled,44.19,-3.74,tiene mejor rango y control de oleada,curated_core
+Aatrox,favored_against,1,Sion,54.05,4.56,gana prioridad para objetivos,curated_core
+Aatrox,favored_against,2,Ornn,52.61,4.34,controla mejor los intercambios,curated_core
+Aatrox,favored_against,3,DrMundo,56.98,5.48,su kit responde bien al patrón rival,curated_core
+Ahri,countered_by,1,Lissandra,46.35,-3.99,escala mejor y fuerza peleas favorables,curated_core
+Ahri,countered_by,2,Vex,44.64,-6.09,castiga engages o dashes,curated_core
+Ahri,countered_by,3,Annie,47.22,-3.44,tiene mejor rango y control de oleada,curated_core
+Ahri,favored_against,1,Syndra,54.87,6.82,controla mejor los intercambios,curated_core
+Ahri,favored_against,2,Orianna,52.51,4.68,tiene mejor escalado en la composición,curated_core
+Ahri,favored_against,3,Azir,55.99,3.42,controla mejor los intercambios,curated_core
+Akali,countered_by,1,Heimerdinger,47.07,-7.63,castiga engages o dashes,heuristic_extended
+Akali,countered_by,2,Xerath,47.45,-6.79,castiga engages o dashes,heuristic_extended
+Akali,countered_by,3,Qiyana,48.34,-5.84,tiene mejor rango y control de oleada,heuristic_extended
+Akali,favored_against,1,Kassadin,57.78,6.7,puede abusar la fase temprana,heuristic_extended
+Akali,favored_against,2,Corki,56.6,4.86,tiene mejor escalado en la composición,heuristic_extended
+Akali,favored_against,3,Fizz,54.8,4.34,su kit responde bien al patrón rival,heuristic_extended
+Akshan,countered_by,1,Aurora,46.19,-7.47,niega el plan principal del campeón,heuristic_extended
+Akshan,countered_by,2,VelKoz,48.68,-3.8,castiga engages o dashes,heuristic_extended
+Akshan,countered_by,3,LeBlanc,47.41,-5.2,tiene mejor rango y control de oleada,heuristic_extended
+Akshan,favored_against,1,Veigar,56.26,7.49,gana prioridad para objetivos,heuristic_extended
+Akshan,favored_against,2,Talon,55.72,6.77,puede abusar la fase temprana,heuristic_extended
+Akshan,favored_against,3,Jayce,52.2,5.25,su kit responde bien al patrón rival,heuristic_extended
+Alistar,countered_by,1,Blitzcrank,44.86,-5.41,castiga engages o dashes,heuristic_extended
+Alistar,countered_by,2,Rakan,48.03,-3.13,supera la fase de línea,heuristic_extended
+Alistar,countered_by,3,Janna,43.64,-2.98,supera la fase de línea,heuristic_extended
+Alistar,favored_against,1,RenataGlasc,53.54,7.43,su kit responde bien al patrón rival,heuristic_extended
+Alistar,favored_against,2,Lux,54.45,6.4,puede abusar la fase temprana,heuristic_extended
+Alistar,favored_against,3,Zyra,55.1,3.06,su kit responde bien al patrón rival,heuristic_extended
+Ambessa,countered_by,1,Jax,44.96,-2.64,castiga engages o dashes,heuristic_extended
+Ambessa,countered_by,2,Tryndamere,44.78,-5.27,escala mejor y fuerza peleas favorables,heuristic_extended
+Ambessa,countered_by,3,Illaoi,45.29,-7.76,escala mejor y fuerza peleas favorables,heuristic_extended
+Ambessa,favored_against,1,Kennen,53.85,4.19,gana prioridad para objetivos,heuristic_extended
+Ambessa,favored_against,2,Vayne,57.51,6.53,puede abusar la fase temprana,heuristic_extended
+Ambessa,favored_against,3,ChoGath,57.1,3.59,gana prioridad para objetivos,heuristic_extended
+Amumu,countered_by,1,Karthus,43.42,-3.89,castiga engages o dashes,heuristic_extended
+Amumu,countered_by,2,Viego,43.59,-4.46,tiene mejor rango y control de oleada,heuristic_extended
+Amumu,countered_by,3,Nocturne,48.47,-7.75,supera la fase de línea,heuristic_extended
+Amumu,favored_against,1,Ivern,54.82,3.43,tiene mejor escalado en la composición,heuristic_extended
+Amumu,favored_against,2,Gragas,55.54,4.8,puede abusar la fase temprana,heuristic_extended
+Amumu,favored_against,3,Hecarim,56.02,4.63,controla mejor los intercambios,heuristic_extended
+Anivia,countered_by,1,Heimerdinger,47.88,-6.96,niega el plan principal del campeón,heuristic_extended
+Anivia,countered_by,2,Annie,48.47,-3.84,supera la fase de línea,heuristic_extended
+Anivia,countered_by,3,Tristana,44.41,-7.78,escala mejor y fuerza peleas favorables,heuristic_extended
+Anivia,favored_against,1,AurelionSol,56.63,3.17,controla mejor los intercambios,heuristic_extended
+Anivia,favored_against,2,Neeko,54.32,3.5,su kit responde bien al patrón rival,heuristic_extended
+Anivia,favored_against,3,Akali,53.48,5.82,controla mejor los intercambios,heuristic_extended
+Annie,countered_by,1,Yasuo,44.48,-3.9,supera la fase de línea,heuristic_extended
+Annie,countered_by,2,Kassadin,43.92,-7.1,escala mejor y fuerza peleas favorables,heuristic_extended
+Annie,countered_by,3,Ziggs,48.51,-7.7,castiga engages o dashes,heuristic_extended
+Annie,favored_against,1,Corki,56.48,4.07,gana prioridad para objetivos,heuristic_extended
+Annie,favored_against,2,Katarina,55.95,4.28,tiene mejor escalado en la composición,heuristic_extended
+Annie,favored_against,3,Taliyah,53.86,6.96,su kit responde bien al patrón rival,heuristic_extended
+Aphelios,countered_by,1,Draven,43.37,-3.55,castiga engages o dashes,curated_core
+Aphelios,countered_by,2,Caitlyn,44.72,-7.48,castiga engages o dashes,curated_core
+Aphelios,countered_by,3,Twitch,48.67,-5.82,tiene mejor rango y control de oleada,curated_core
+Aphelios,favored_against,1,KaiSa,55.55,3.53,gana prioridad para objetivos,curated_core
+Aphelios,favored_against,2,Sivir,57.74,4.55,puede abusar la fase temprana,curated_core
+Aphelios,favored_against,3,Xayah,55.07,7.35,gana prioridad para objetivos,curated_core
+Ashe,countered_by,1,KaiSa,46.21,-7.42,niega el plan principal del campeón,heuristic_extended
+Ashe,countered_by,2,Jinx,46.59,-4.56,tiene mejor rango y control de oleada,heuristic_extended
+Ashe,countered_by,3,Zeri,44.88,-5.21,supera la fase de línea,heuristic_extended
+Ashe,favored_against,1,KogMaw,54.81,2.6,tiene mejor escalado en la composición,heuristic_extended
+Ashe,favored_against,2,Vayne,53.41,2.99,gana prioridad para objetivos,heuristic_extended
+Ashe,favored_against,3,Nunu,54.86,7.35,controla mejor los intercambios,heuristic_extended
+AurelionSol,countered_by,1,Neeko,46.59,-5.58,escala mejor y fuerza peleas favorables,heuristic_extended
+AurelionSol,countered_by,2,Lux,47.09,-4.72,castiga engages o dashes,heuristic_extended
+AurelionSol,countered_by,3,Talon,48.0,-3.12,castiga engages o dashes,heuristic_extended
+AurelionSol,favored_against,1,Anivia,55.13,4.0,su kit responde bien al patrón rival,heuristic_extended
+AurelionSol,favored_against,2,VelKoz,52.26,4.11,su kit responde bien al patrón rival,heuristic_extended
+AurelionSol,favored_against,3,Kassadin,56.64,6.78,puede abusar la fase temprana,heuristic_extended
+Aurora,countered_by,1,Zed,44.36,-3.58,niega el plan principal del campeón,heuristic_extended
+Aurora,countered_by,2,AurelionSol,46.82,-3.15,castiga engages o dashes,heuristic_extended
+Aurora,countered_by,3,Tristana,44.13,-5.32,escala mejor y fuerza peleas favorables,heuristic_extended
+Aurora,favored_against,1,Ahri,51.35,4.79,controla mejor los intercambios,heuristic_extended
+Aurora,favored_against,2,Ekko,55.64,4.31,su kit responde bien al patrón rival,heuristic_extended
+Aurora,favored_against,3,Akali,55.57,6.17,tiene mejor escalado en la composición,heuristic_extended
+Azir,countered_by,1,Xerath,47.13,-2.71,supera la fase de línea,curated_core
+Azir,countered_by,2,Syndra,46.92,-3.43,escala mejor y fuerza peleas favorables,curated_core
+Azir,countered_by,3,Akali,45.88,-2.66,tiene mejor rango y control de oleada,curated_core
+Azir,favored_against,1,Orianna,53.84,3.54,controla mejor los intercambios,curated_core
+Azir,favored_against,2,Viktor,56.82,6.51,tiene mejor escalado en la composición,curated_core
+Azir,favored_against,3,Ryze,57.12,3.25,tiene mejor escalado en la composición,curated_core
+Bard,countered_by,1,Janna,45.94,-4.47,escala mejor y fuerza peleas favorables,heuristic_extended
+Bard,countered_by,2,Sona,44.67,-3.73,escala mejor y fuerza peleas favorables,heuristic_extended
+Bard,countered_by,3,Maokai,47.43,-6.76,escala mejor y fuerza peleas favorables,heuristic_extended
+Bard,favored_against,1,RenataGlasc,55.9,6.82,su kit responde bien al patrón rival,heuristic_extended
+Bard,favored_against,2,Blitzcrank,57.57,7.46,puede abusar la fase temprana,heuristic_extended
+Bard,favored_against,3,Taric,54.06,4.77,controla mejor los intercambios,heuristic_extended
+BelVeth,countered_by,1,Skarner,44.42,-3.18,tiene mejor rango y control de oleada,heuristic_extended
+BelVeth,countered_by,2,Nunu,47.37,-4.42,castiga engages o dashes,heuristic_extended
+BelVeth,countered_by,3,Viego,48.57,-3.14,niega el plan principal del campeón,heuristic_extended
+BelVeth,favored_against,1,Evelynn,55.47,2.82,su kit responde bien al patrón rival,heuristic_extended
+BelVeth,favored_against,2,Poppy,55.09,6.5,gana prioridad para objetivos,heuristic_extended
+BelVeth,favored_against,3,Rengar,57.59,7.21,puede abusar la fase temprana,heuristic_extended
+Blitzcrank,countered_by,1,Karma,44.65,-3.52,castiga engages o dashes,heuristic_extended
+Blitzcrank,countered_by,2,Bard,43.95,-6.52,niega el plan principal del campeón,heuristic_extended
+Blitzcrank,countered_by,3,Seraphine,46.93,-3.41,escala mejor y fuerza peleas favorables,heuristic_extended
+Blitzcrank,favored_against,1,Yuumi,52.5,7.04,tiene mejor escalado en la composición,heuristic_extended
+Blitzcrank,favored_against,2,Neeko,56.62,2.95,tiene mejor escalado en la composición,heuristic_extended
+Blitzcrank,favored_against,3,RenataGlasc,53.48,4.41,puede abusar la fase temprana,heuristic_extended
+Brand,countered_by,1,Naafiri,46.29,-3.49,supera la fase de línea,heuristic_extended
+Brand,countered_by,2,Azir,47.71,-4.52,niega el plan principal del campeón,heuristic_extended
+Brand,countered_by,3,AurelionSol,46.09,-6.75,tiene mejor rango y control de oleada,heuristic_extended
+Brand,favored_against,1,Viktor,55.12,6.67,gana prioridad para objetivos,heuristic_extended
+Brand,favored_against,2,Swain,54.27,3.3,controla mejor los intercambios,heuristic_extended
+Brand,favored_against,3,Lux,55.94,6.66,gana prioridad para objetivos,heuristic_extended
+Braum,countered_by,1,Neeko,43.87,-4.99,supera la fase de línea,heuristic_extended
+Braum,countered_by,2,RenataGlasc,43.25,-3.16,escala mejor y fuerza peleas favorables,heuristic_extended
+Braum,countered_by,3,Janna,47.69,-6.11,tiene mejor rango y control de oleada,heuristic_extended
+Braum,favored_against,1,Swain,57.55,2.66,su kit responde bien al patrón rival,heuristic_extended
+Braum,favored_against,2,Morgana,56.2,3.36,controla mejor los intercambios,heuristic_extended
+Braum,favored_against,3,Zilean,54.38,2.48,su kit responde bien al patrón rival,heuristic_extended
+Briar,countered_by,1,Gragas,45.12,-3.93,castiga engages o dashes,heuristic_extended
+Briar,countered_by,2,Maokai,45.82,-5.8,escala mejor y fuerza peleas favorables,heuristic_extended
+Briar,countered_by,3,Diana,46.89,-7.52,tiene mejor rango y control de oleada,heuristic_extended
+Briar,favored_against,1,Taliyah,54.12,2.43,gana prioridad para objetivos,heuristic_extended
+Briar,favored_against,2,Rengar,56.62,2.58,puede abusar la fase temprana,heuristic_extended
+Briar,favored_against,3,Hecarim,55.87,4.63,gana prioridad para objetivos,heuristic_extended
+Caitlyn,countered_by,1,Ezreal,43.68,-4.29,escala mejor y fuerza peleas favorables,heuristic_extended
+Caitlyn,countered_by,2,Lucian,48.06,-2.45,supera la fase de línea,heuristic_extended
+Caitlyn,countered_by,3,Kalista,44.72,-7.79,niega el plan principal del campeón,heuristic_extended
+Caitlyn,favored_against,1,Aphelios,53.33,4.49,puede abusar la fase temprana,heuristic_extended
+Caitlyn,favored_against,2,Senna,54.83,4.7,tiene mejor escalado en la composición,heuristic_extended
+Caitlyn,favored_against,3,Varus,55.0,5.58,puede abusar la fase temprana,heuristic_extended
+Camille,countered_by,1,Jax,45.46,-6.02,niega el plan principal del campeón,curated_core
+Camille,countered_by,2,Fiora,46.01,-3.34,castiga engages o dashes,curated_core
+Camille,countered_by,3,Poppy,47.37,-5.8,niega el plan principal del campeón,curated_core
+Camille,favored_against,1,Sion,56.3,7.52,gana prioridad para objetivos,curated_core
+Camille,favored_against,2,Garen,56.44,6.11,tiene mejor escalado en la composición,curated_core
+Camille,favored_against,3,DrMundo,51.96,3.61,tiene mejor escalado en la composición,curated_core
+Cassiopeia,countered_by,1,Irelia,45.17,-5.82,castiga engages o dashes,heuristic_extended
+Cassiopeia,countered_by,2,Anivia,47.92,-3.08,niega el plan principal del campeón,heuristic_extended
+Cassiopeia,countered_by,3,Xerath,43.6,-7.38,tiene mejor rango y control de oleada,heuristic_extended
+Cassiopeia,favored_against,1,Yasuo,57.01,4.02,tiene mejor escalado en la composición,heuristic_extended
+Cassiopeia,favored_against,2,Neeko,55.8,4.44,gana prioridad para objetivos,heuristic_extended
+Cassiopeia,favored_against,3,Quinn,53.16,6.81,controla mejor los intercambios,heuristic_extended
+ChoGath,countered_by,1,Volibear,43.87,-2.57,castiga engages o dashes,heuristic_extended
+ChoGath,countered_by,2,Renekton,45.16,-3.4,tiene mejor rango y control de oleada,heuristic_extended
+ChoGath,countered_by,3,Malphite,47.15,-4.6,niega el plan principal del campeón,heuristic_extended
+ChoGath,favored_against,1,Riven,57.21,3.17,gana prioridad para objetivos,heuristic_extended
+ChoGath,favored_against,2,Kled,54.18,2.94,controla mejor los intercambios,heuristic_extended
+ChoGath,favored_against,3,Maokai,54.73,5.18,controla mejor los intercambios,heuristic_extended
+Corki,countered_by,1,Neeko,45.5,-5.78,escala mejor y fuerza peleas favorables,heuristic_extended
+Corki,countered_by,2,Akali,48.37,-3.47,castiga engages o dashes,heuristic_extended
+Corki,countered_by,3,Azir,43.28,-5.98,tiene mejor rango y control de oleada,heuristic_extended
+Corki,favored_against,1,Ryze,57.08,3.5,su kit responde bien al patrón rival,heuristic_extended
+Corki,favored_against,2,Katarina,54.9,4.53,puede abusar la fase temprana,heuristic_extended
+Corki,favored_against,3,Yasuo,51.64,6.52,tiene mejor escalado en la composición,heuristic_extended
+Darius,countered_by,1,KSante,45.33,-7.23,castiga engages o dashes,heuristic_extended
+Darius,countered_by,2,Garen,46.97,-7.2,supera la fase de línea,heuristic_extended
+Darius,countered_by,3,Teemo,47.5,-5.93,niega el plan principal del campeón,heuristic_extended
+Darius,favored_against,1,Vayne,56.76,4.49,su kit responde bien al patrón rival,heuristic_extended
+Darius,favored_against,2,Shen,52.99,6.01,su kit responde bien al patrón rival,heuristic_extended
+Darius,favored_against,3,Irelia,53.46,6.11,gana prioridad para objetivos,heuristic_extended
+Diana,countered_by,1,Ivern,45.82,-3.37,tiene mejor rango y control de oleada,heuristic_extended
+Diana,countered_by,2,Nunu,43.99,-2.81,supera la fase de línea,heuristic_extended
+Diana,countered_by,3,RekSai,47.42,-3.7,tiene mejor rango y control de oleada,heuristic_extended
+Diana,favored_against,1,Amumu,55.08,4.27,puede abusar la fase temprana,heuristic_extended
+Diana,favored_against,2,LeeSin,51.93,5.78,puede abusar la fase temprana,heuristic_extended
+Diana,favored_against,3,BelVeth,56.64,6.59,tiene mejor escalado en la composición,heuristic_extended
+DrMundo,countered_by,1,Riven,47.21,-5.59,castiga engages o dashes,heuristic_extended
+DrMundo,countered_by,2,Renekton,45.12,-7.38,niega el plan principal del campeón,heuristic_extended
+DrMundo,countered_by,3,Jayce,43.25,-2.53,niega el plan principal del campeón,heuristic_extended
+DrMundo,favored_against,1,Yone,53.76,5.83,puede abusar la fase temprana,heuristic_extended
+DrMundo,favored_against,2,Jax,51.59,5.05,su kit responde bien al patrón rival,heuristic_extended
+DrMundo,favored_against,3,Rakan,56.19,6.23,tiene mejor escalado en la composición,heuristic_extended
+Draven,countered_by,1,Ashe,48.19,-4.29,castiga engages o dashes,heuristic_extended
+Draven,countered_by,2,Smolder,46.91,-5.51,supera la fase de línea,heuristic_extended
+Draven,countered_by,3,Lucian,47.94,-2.77,niega el plan principal del campeón,heuristic_extended
+Draven,favored_against,1,Jinx,54.25,6.58,tiene mejor escalado en la composición,heuristic_extended
+Draven,favored_against,2,Varus,57.29,5.38,controla mejor los intercambios,heuristic_extended
+Draven,favored_against,3,Janna,56.71,3.34,gana prioridad para objetivos,heuristic_extended
+Ekko,countered_by,1,Taliyah,43.93,-3.5,escala mejor y fuerza peleas favorables,heuristic_extended
+Ekko,countered_by,2,JarvanIV,45.58,-6.54,escala mejor y fuerza peleas favorables,heuristic_extended
+Ekko,countered_by,3,Amumu,46.1,-4.58,tiene mejor rango y control de oleada,heuristic_extended
+Ekko,favored_against,1,Nidalee,57.64,7.53,tiene mejor escalado en la composición,heuristic_extended
+Ekko,favored_against,2,Kindred,51.66,6.25,gana prioridad para objetivos,heuristic_extended
+Ekko,favored_against,3,BelVeth,54.23,3.06,puede abusar la fase temprana,heuristic_extended
+Elise,countered_by,1,Briar,43.67,-6.93,castiga engages o dashes,heuristic_extended
+Elise,countered_by,2,Diana,44.81,-4.56,escala mejor y fuerza peleas favorables,heuristic_extended
+Elise,countered_by,3,Maokai,47.03,-6.27,supera la fase de línea,heuristic_extended
+Elise,favored_against,1,XinZhao,54.22,2.68,gana prioridad para objetivos,heuristic_extended
+Elise,favored_against,2,Shaco,57.29,3.66,controla mejor los intercambios,heuristic_extended
+Elise,favored_against,3,Ekko,56.98,3.69,su kit responde bien al patrón rival,heuristic_extended
+Evelynn,countered_by,1,Wukong,45.85,-4.52,supera la fase de línea,heuristic_extended
+Evelynn,countered_by,2,Kindred,43.81,-7.47,supera la fase de línea,heuristic_extended
+Evelynn,countered_by,3,Warwick,46.39,-7.04,tiene mejor rango y control de oleada,heuristic_extended
+Evelynn,favored_against,1,MasterYi,52.42,2.58,puede abusar la fase temprana,heuristic_extended
+Evelynn,favored_against,2,Viego,54.65,3.16,gana prioridad para objetivos,heuristic_extended
+Evelynn,favored_against,3,Maokai,56.35,5.76,su kit responde bien al patrón rival,heuristic_extended
+Ezreal,countered_by,1,Nilah,47.76,-3.82,niega el plan principal del campeón,heuristic_extended
+Ezreal,countered_by,2,Samira,44.6,-3.74,supera la fase de línea,heuristic_extended
+Ezreal,countered_by,3,Caitlyn,48.41,-3.9,escala mejor y fuerza peleas favorables,heuristic_extended
+Ezreal,favored_against,1,Ziggs,54.37,3.17,puede abusar la fase temprana,heuristic_extended
+Ezreal,favored_against,2,MissFortune,51.7,2.67,gana prioridad para objetivos,heuristic_extended
+Ezreal,favored_against,3,Kalista,52.34,4.87,puede abusar la fase temprana,heuristic_extended
+Fiddlesticks,countered_by,1,MasterYi,43.48,-5.94,niega el plan principal del campeón,heuristic_extended
+Fiddlesticks,countered_by,2,Shyvana,46.67,-3.47,supera la fase de línea,heuristic_extended
+Fiddlesticks,countered_by,3,Udyr,46.45,-4.6,castiga engages o dashes,heuristic_extended
+Fiddlesticks,favored_against,1,Nunu,54.68,7.11,su kit responde bien al patrón rival,heuristic_extended
+Fiddlesticks,favored_against,2,JarvanIV,51.86,4.37,tiene mejor escalado en la composición,heuristic_extended
+Fiddlesticks,favored_against,3,Ivern,53.52,6.77,puede abusar la fase temprana,heuristic_extended
+Fiora,countered_by,1,Malphite,44.58,-6.25,tiene mejor rango y control de oleada,curated_core
+Fiora,countered_by,2,Poppy,45.81,-5.5,supera la fase de línea,curated_core
+Fiora,countered_by,3,Quinn,44.68,-7.16,castiga engages o dashes,curated_core
+Fiora,favored_against,1,Aatrox,54.93,3.34,tiene mejor escalado en la composición,curated_core
+Fiora,favored_against,2,Camille,55.78,2.33,tiene mejor escalado en la composición,curated_core
+Fiora,favored_against,3,Sion,56.65,6.77,su kit responde bien al patrón rival,curated_core
+Fizz,countered_by,1,Azir,46.09,-6.15,escala mejor y fuerza peleas favorables,heuristic_extended
+Fizz,countered_by,2,Akshan,45.37,-2.72,tiene mejor rango y control de oleada,heuristic_extended
+Fizz,countered_by,3,Taliyah,44.61,-5.54,escala mejor y fuerza peleas favorables,heuristic_extended
+Fizz,favored_against,1,Cassiopeia,54.7,2.48,controla mejor los intercambios,heuristic_extended
+Fizz,favored_against,2,Galio,53.31,4.9,tiene mejor escalado en la composición,heuristic_extended
+Fizz,favored_against,3,Ryze,53.06,7.59,gana prioridad para objetivos,heuristic_extended
+Galio,countered_by,1,Cassiopeia,45.46,-7.09,niega el plan principal del campeón,heuristic_extended
+Galio,countered_by,2,VelKoz,45.6,-6.45,supera la fase de línea,heuristic_extended
+Galio,countered_by,3,Yone,48.54,-5.64,escala mejor y fuerza peleas favorables,heuristic_extended
+Galio,favored_against,1,Corki,53.69,2.56,tiene mejor escalado en la composición,heuristic_extended
+Galio,favored_against,2,Vex,53.55,3.31,gana prioridad para objetivos,heuristic_extended
+Galio,favored_against,3,Nidalee,53.09,5.85,puede abusar la fase temprana,heuristic_extended
+Gangplank,countered_by,1,Aatrox,45.51,-7.18,tiene mejor rango y control de oleada,heuristic_extended
+Gangplank,countered_by,2,TahmKench,45.9,-3.65,castiga engages o dashes,heuristic_extended
+Gangplank,countered_by,3,Illaoi,43.27,-6.54,escala mejor y fuerza peleas favorables,heuristic_extended
+Gangplank,favored_against,1,ChoGath,56.59,5.59,controla mejor los intercambios,heuristic_extended
+Gangplank,favored_against,2,Kayle,52.41,5.62,su kit responde bien al patrón rival,heuristic_extended
+Gangplank,favored_against,3,Ornn,52.63,7.33,gana prioridad para objetivos,heuristic_extended
+Garen,countered_by,1,Jax,43.4,-4.68,castiga engages o dashes,heuristic_extended
+Garen,countered_by,2,Irelia,46.92,-6.78,castiga engages o dashes,heuristic_extended
+Garen,countered_by,3,DrMundo,46.55,-2.75,supera la fase de línea,heuristic_extended
+Garen,favored_against,1,Shen,56.75,5.68,tiene mejor escalado en la composición,heuristic_extended
+Garen,favored_against,2,Urgot,55.91,4.91,su kit responde bien al patrón rival,heuristic_extended
+Garen,favored_against,3,Aatrox,56.26,6.28,tiene mejor escalado en la composición,heuristic_extended
+Gnar,countered_by,1,TahmKench,46.54,-6.56,escala mejor y fuerza peleas favorables,heuristic_extended
+Gnar,countered_by,2,Shen,47.7,-3.09,niega el plan principal del campeón,heuristic_extended
+Gnar,countered_by,3,Volibear,47.21,-3.9,niega el plan principal del campeón,heuristic_extended
+Gnar,favored_against,1,Ornn,51.69,3.87,gana prioridad para objetivos,heuristic_extended
+Gnar,favored_against,2,Rumble,57.14,6.51,tiene mejor escalado en la composición,heuristic_extended
+Gnar,favored_against,3,Yone,54.08,3.76,puede abusar la fase temprana,heuristic_extended
+Gragas,countered_by,1,Ekko,46.38,-6.72,tiene mejor rango y control de oleada,heuristic_extended
+Gragas,countered_by,2,Viego,47.13,-5.68,niega el plan principal del campeón,heuristic_extended
+Gragas,countered_by,3,Karthus,43.53,-2.9,supera la fase de línea,heuristic_extended
+Gragas,favored_against,1,Nidalee,51.31,5.17,su kit responde bien al patrón rival,heuristic_extended
+Gragas,favored_against,2,Rengar,54.6,4.35,tiene mejor escalado en la composición,heuristic_extended
+Gragas,favored_against,3,Warwick,54.84,3.94,controla mejor los intercambios,heuristic_extended
+Graves,countered_by,1,Fiddlesticks,43.81,-6.82,tiene mejor rango y control de oleada,heuristic_extended
+Graves,countered_by,2,Viego,44.24,-6.64,niega el plan principal del campeón,heuristic_extended
+Graves,countered_by,3,Vi,47.67,-6.84,supera la fase de línea,heuristic_extended
+Graves,favored_against,1,Zac,56.47,5.84,tiene mejor escalado en la composición,heuristic_extended
+Graves,favored_against,2,Wukong,56.79,5.3,su kit responde bien al patrón rival,heuristic_extended
+Graves,favored_against,3,Shaco,53.12,5.21,puede abusar la fase temprana,heuristic_extended
+Gwen,countered_by,1,Ambessa,43.47,-7.14,escala mejor y fuerza peleas favorables,heuristic_extended
+Gwen,countered_by,2,Singed,47.16,-7.1,tiene mejor rango y control de oleada,heuristic_extended
+Gwen,countered_by,3,Riven,47.94,-4.72,supera la fase de línea,heuristic_extended
+Gwen,favored_against,1,Kled,51.61,4.74,su kit responde bien al patrón rival,heuristic_extended
+Gwen,favored_against,2,Quinn,54.65,5.64,puede abusar la fase temprana,heuristic_extended
+Gwen,favored_against,3,Vayne,57.68,5.88,controla mejor los intercambios,heuristic_extended
+Hecarim,countered_by,1,Shaco,45.32,-5.26,tiene mejor rango y control de oleada,heuristic_extended
+Hecarim,countered_by,2,Elise,47.68,-2.88,supera la fase de línea,heuristic_extended
+Hecarim,countered_by,3,Maokai,48.08,-7.55,tiene mejor rango y control de oleada,heuristic_extended
+Hecarim,favored_against,1,Fiddlesticks,52.21,7.35,su kit responde bien al patrón rival,heuristic_extended
+Hecarim,favored_against,2,MasterYi,54.53,7.13,su kit responde bien al patrón rival,heuristic_extended
+Hecarim,favored_against,3,Rammus,56.83,2.33,puede abusar la fase temprana,heuristic_extended
+Heimerdinger,countered_by,1,AurelionSol,47.9,-5.21,supera la fase de línea,heuristic_extended
+Heimerdinger,countered_by,2,Akshan,45.61,-5.43,tiene mejor rango y control de oleada,heuristic_extended
+Heimerdinger,countered_by,3,Aurora,48.14,-5.04,castiga engages o dashes,heuristic_extended
+Heimerdinger,favored_against,1,Xerath,56.54,2.42,tiene mejor escalado en la composición,heuristic_extended
+Heimerdinger,favored_against,2,Yasuo,53.85,3.31,puede abusar la fase temprana,heuristic_extended
+Heimerdinger,favored_against,3,Lux,55.41,4.37,controla mejor los intercambios,heuristic_extended
+Hwei,countered_by,1,Ekko,44.92,-2.45,escala mejor y fuerza peleas favorables,heuristic_extended
+Hwei,countered_by,2,VelKoz,45.06,-3.51,escala mejor y fuerza peleas favorables,heuristic_extended
+Hwei,countered_by,3,Yone,47.14,-4.47,escala mejor y fuerza peleas favorables,heuristic_extended
+Hwei,favored_against,1,Yasuo,56.61,6.66,puede abusar la fase temprana,heuristic_extended
+Hwei,favored_against,2,Xerath,53.42,4.77,su kit responde bien al patrón rival,heuristic_extended
+Hwei,favored_against,3,Akali,56.57,6.0,puede abusar la fase temprana,heuristic_extended
+Illaoi,countered_by,1,Vladimir,47.87,-2.62,escala mejor y fuerza peleas favorables,heuristic_extended
+Illaoi,countered_by,2,Quinn,43.39,-3.69,supera la fase de línea,heuristic_extended
+Illaoi,countered_by,3,Fiora,45.27,-4.72,escala mejor y fuerza peleas favorables,heuristic_extended
+Illaoi,favored_against,1,Riven,52.31,5.78,puede abusar la fase temprana,heuristic_extended
+Illaoi,favored_against,2,Irelia,52.83,6.03,gana prioridad para objetivos,heuristic_extended
+Illaoi,favored_against,3,Gwen,55.21,5.02,tiene mejor escalado en la composición,heuristic_extended
+Irelia,countered_by,1,Volibear,46.7,-5.4,escala mejor y fuerza peleas favorables,heuristic_extended
+Irelia,countered_by,2,Kennen,46.76,-5.82,tiene mejor rango y control de oleada,heuristic_extended
+Irelia,countered_by,3,Malphite,47.47,-6.88,supera la fase de línea,heuristic_extended
+Irelia,favored_against,1,Yone,55.83,6.08,tiene mejor escalado en la composición,heuristic_extended
+Irelia,favored_against,2,Teemo,56.06,4.47,controla mejor los intercambios,heuristic_extended
+Irelia,favored_against,3,KSante,56.18,5.51,su kit responde bien al patrón rival,heuristic_extended
+Ivern,countered_by,1,Evelynn,44.93,-3.29,supera la fase de línea,heuristic_extended
+Ivern,countered_by,2,Shyvana,48.66,-6.01,escala mejor y fuerza peleas favorables,heuristic_extended
+Ivern,countered_by,3,KhaZix,43.53,-5.53,escala mejor y fuerza peleas favorables,heuristic_extended
+Ivern,favored_against,1,Nunu,56.93,5.7,puede abusar la fase temprana,heuristic_extended
+Ivern,favored_against,2,Skarner,57.19,2.6,tiene mejor escalado en la composición,heuristic_extended
+Ivern,favored_against,3,Diana,57.39,6.01,gana prioridad para objetivos,heuristic_extended
+Janna,countered_by,1,Lux,44.54,-7.15,escala mejor y fuerza peleas favorables,heuristic_extended
+Janna,countered_by,2,Maokai,46.76,-4.52,niega el plan principal del campeón,heuristic_extended
+Janna,countered_by,3,Blitzcrank,44.0,-4.61,escala mejor y fuerza peleas favorables,heuristic_extended
+Janna,favored_against,1,RenataGlasc,57.32,6.6,puede abusar la fase temprana,heuristic_extended
+Janna,favored_against,2,Yuumi,53.03,5.84,controla mejor los intercambios,heuristic_extended
+Janna,favored_against,3,Lulu,54.69,6.55,puede abusar la fase temprana,heuristic_extended
+JarvanIV,countered_by,1,Vi,46.85,-7.48,tiene mejor rango y control de oleada,heuristic_extended
+JarvanIV,countered_by,2,Sejuani,45.0,-4.43,niega el plan principal del campeón,heuristic_extended
+JarvanIV,countered_by,3,Briar,44.86,-4.93,tiene mejor rango y control de oleada,heuristic_extended
+JarvanIV,favored_against,1,Kayn,52.5,3.04,tiene mejor escalado en la composición,heuristic_extended
+JarvanIV,favored_against,2,RekSai,57.45,6.83,gana prioridad para objetivos,heuristic_extended
+JarvanIV,favored_against,3,Karthus,53.36,2.75,tiene mejor escalado en la composición,heuristic_extended
+Jax,countered_by,1,Malphite,43.92,-4.02,castiga engages o dashes,curated_core
+Jax,countered_by,2,Garen,43.54,-2.75,escala mejor y fuerza peleas favorables,curated_core
+Jax,countered_by,3,Poppy,48.7,-7.41,niega el plan principal del campeón,curated_core
+Jax,favored_against,1,Camille,53.35,2.4,gana prioridad para objetivos,curated_core
+Jax,favored_against,2,Irelia,57.15,3.44,su kit responde bien al patrón rival,curated_core
+Jax,favored_against,3,Yone,54.28,7.02,su kit responde bien al patrón rival,curated_core
+Jayce,countered_by,1,Malphite,43.39,-6.75,supera la fase de línea,curated_core
+Jayce,countered_by,2,Irelia,46.58,-2.61,escala mejor y fuerza peleas favorables,curated_core
+Jayce,countered_by,3,Wukong,44.37,-6.58,escala mejor y fuerza peleas favorables,curated_core
+Jayce,favored_against,1,Gnar,55.9,3.18,puede abusar la fase temprana,curated_core
+Jayce,favored_against,2,Kayle,53.4,3.5,controla mejor los intercambios,curated_core
+Jayce,favored_against,3,Teemo,57.64,6.86,puede abusar la fase temprana,curated_core
+Jhin,countered_by,1,Twitch,47.37,-3.31,niega el plan principal del campeón,heuristic_extended
+Jhin,countered_by,2,Senna,46.48,-2.78,tiene mejor rango y control de oleada,heuristic_extended
+Jhin,countered_by,3,KaiSa,47.08,-3.8,niega el plan principal del campeón,heuristic_extended
+Jhin,favored_against,1,KogMaw,56.74,4.22,gana prioridad para objetivos,heuristic_extended
+Jhin,favored_against,2,Nilah,51.39,5.16,su kit responde bien al patrón rival,heuristic_extended
+Jhin,favored_against,3,Caitlyn,53.29,5.17,gana prioridad para objetivos,heuristic_extended
+Jinx,countered_by,1,Draven,46.03,-7.18,niega el plan principal del campeón,curated_core
+Jinx,countered_by,2,Twitch,47.88,-6.87,castiga engages o dashes,curated_core
+Jinx,countered_by,3,Tristana,47.63,-7.28,tiene mejor rango y control de oleada,curated_core
+Jinx,favored_against,1,Sivir,53.91,6.63,su kit responde bien al patrón rival,curated_core
+Jinx,favored_against,2,KaiSa,55.38,6.43,su kit responde bien al patrón rival,curated_core
+Jinx,favored_against,3,Aphelios,57.04,2.77,gana prioridad para objetivos,curated_core
+KSante,countered_by,1,ChoGath,46.01,-2.89,tiene mejor rango y control de oleada,heuristic_extended
+KSante,countered_by,2,Nasus,46.27,-5.48,tiene mejor rango y control de oleada,heuristic_extended
+KSante,countered_by,3,Gangplank,45.18,-3.17,niega el plan principal del campeón,heuristic_extended
+KSante,favored_against,1,Gnar,55.13,4.44,puede abusar la fase temprana,heuristic_extended
+KSante,favored_against,2,TahmKench,55.86,2.39,su kit responde bien al patrón rival,heuristic_extended
+KSante,favored_against,3,Rumble,54.02,2.7,su kit responde bien al patrón rival,heuristic_extended
+KaiSa,countered_by,1,Caitlyn,43.34,-4.02,niega el plan principal del campeón,curated_core
+KaiSa,countered_by,2,Draven,48.55,-7.48,castiga engages o dashes,curated_core
+KaiSa,countered_by,3,Ashe,44.17,-5.92,tiene mejor rango y control de oleada,curated_core
+KaiSa,favored_against,1,Ezreal,56.8,7.11,gana prioridad para objetivos,curated_core
+KaiSa,favored_against,2,Jinx,52.99,6.8,tiene mejor escalado en la composición,curated_core
+KaiSa,favored_against,3,Xayah,53.89,5.88,controla mejor los intercambios,curated_core
+Kalista,countered_by,1,Twitch,46.47,-4.56,niega el plan principal del campeón,heuristic_extended
+Kalista,countered_by,2,Jhin,48.01,-2.92,escala mejor y fuerza peleas favorables,heuristic_extended
+Kalista,countered_by,3,KaiSa,44.23,-2.42,niega el plan principal del campeón,heuristic_extended
+Kalista,favored_against,1,Ziggs,54.3,2.58,tiene mejor escalado en la composición,heuristic_extended
+Kalista,favored_against,2,Zeri,53.34,7.16,su kit responde bien al patrón rival,heuristic_extended
+Kalista,favored_against,3,Varus,55.13,5.61,tiene mejor escalado en la composición,heuristic_extended
+Karma,countered_by,1,Blitzcrank,48.51,-7.2,tiene mejor rango y control de oleada,curated_core
+Karma,countered_by,2,Nautilus,48.09,-6.84,castiga engages o dashes,curated_core
+Karma,countered_by,3,Pyke,46.68,-6.93,niega el plan principal del campeón,curated_core
+Karma,favored_against,1,Lulu,55.18,2.54,puede abusar la fase temprana,curated_core
+Karma,favored_against,2,Milio,52.46,3.84,gana prioridad para objetivos,curated_core
+Karma,favored_against,3,Sona,53.5,7.13,puede abusar la fase temprana,curated_core
+Karthus,countered_by,1,Graves,44.56,-6.07,castiga engages o dashes,heuristic_extended
+Karthus,countered_by,2,BelVeth,45.69,-4.77,tiene mejor rango y control de oleada,heuristic_extended
+Karthus,countered_by,3,Elise,44.88,-4.45,castiga engages o dashes,heuristic_extended
+Karthus,favored_against,1,Poppy,56.27,2.66,puede abusar la fase temprana,heuristic_extended
+Karthus,favored_against,2,Shaco,57.55,3.59,su kit responde bien al patrón rival,heuristic_extended
+Karthus,favored_against,3,Viego,52.86,5.98,tiene mejor escalado en la composición,heuristic_extended
+Kassadin,countered_by,1,Aurora,44.34,-5.59,supera la fase de línea,heuristic_extended
+Kassadin,countered_by,2,Azir,47.91,-3.97,tiene mejor rango y control de oleada,heuristic_extended
+Kassadin,countered_by,3,Zoe,47.2,-2.8,supera la fase de línea,heuristic_extended
+Kassadin,favored_against,1,Lux,54.66,6.89,tiene mejor escalado en la composición,heuristic_extended
+Kassadin,favored_against,2,Viktor,54.04,5.51,puede abusar la fase temprana,heuristic_extended
+Kassadin,favored_against,3,Ryze,55.18,5.46,tiene mejor escalado en la composición,heuristic_extended
+Katarina,countered_by,1,Orianna,45.42,-4.46,supera la fase de línea,heuristic_extended
+Katarina,countered_by,2,Neeko,46.05,-5.36,supera la fase de línea,heuristic_extended
+Katarina,countered_by,3,Akshan,44.26,-6.03,escala mejor y fuerza peleas favorables,heuristic_extended
+Katarina,favored_against,1,Swain,53.2,4.62,su kit responde bien al patrón rival,heuristic_extended
+Katarina,favored_against,2,Ryze,54.39,6.84,puede abusar la fase temprana,heuristic_extended
+Katarina,favored_against,3,AurelionSol,56.61,5.37,puede abusar la fase temprana,heuristic_extended
+Kayle,countered_by,1,Jayce,46.66,-7.16,tiene mejor rango y control de oleada,heuristic_extended
+Kayle,countered_by,2,Sett,44.51,-3.57,supera la fase de línea,heuristic_extended
+Kayle,countered_by,3,Singed,47.58,-3.12,castiga engages o dashes,heuristic_extended
+Kayle,favored_against,1,Olaf,57.11,4.11,tiene mejor escalado en la composición,heuristic_extended
+Kayle,favored_against,2,Vladimir,52.38,4.68,tiene mejor escalado en la composición,heuristic_extended
+Kayle,favored_against,3,Quinn,52.41,3.2,su kit responde bien al patrón rival,heuristic_extended
+Kayn,countered_by,1,Wukong,46.72,-5.06,supera la fase de línea,heuristic_extended
+Kayn,countered_by,2,Shyvana,47.71,-5.4,supera la fase de línea,heuristic_extended
+Kayn,countered_by,3,Taliyah,47.14,-4.0,tiene mejor rango y control de oleada,heuristic_extended
+Kayn,favored_against,1,Talon,51.35,3.22,su kit responde bien al patrón rival,heuristic_extended
+Kayn,favored_against,2,Vi,55.84,2.2,gana prioridad para objetivos,heuristic_extended
+Kayn,favored_against,3,Amumu,55.28,2.65,puede abusar la fase temprana,heuristic_extended
+Kennen,countered_by,1,ChoGath,46.68,-6.42,supera la fase de línea,heuristic_extended
+Kennen,countered_by,2,Aatrox,44.01,-5.59,supera la fase de línea,heuristic_extended
+Kennen,countered_by,3,Vayne,47.43,-7.64,supera la fase de línea,heuristic_extended
+Kennen,favored_against,1,Jayce,57.59,2.42,tiene mejor escalado en la composición,heuristic_extended
+Kennen,favored_against,2,Vladimir,56.45,6.07,su kit responde bien al patrón rival,heuristic_extended
+Kennen,favored_against,3,Sett,55.86,4.17,controla mejor los intercambios,heuristic_extended
+KhaZix,countered_by,1,Elise,46.34,-3.13,supera la fase de línea,heuristic_extended
+KhaZix,countered_by,2,Skarner,43.9,-7.11,niega el plan principal del campeón,heuristic_extended
+KhaZix,countered_by,3,Udyr,45.01,-3.28,niega el plan principal del campeón,heuristic_extended
+KhaZix,favored_against,1,Diana,54.15,4.59,tiene mejor escalado en la composición,heuristic_extended
+KhaZix,favored_against,2,Kayn,56.47,3.22,tiene mejor escalado en la composición,heuristic_extended
+KhaZix,favored_against,3,Warwick,53.3,5.15,tiene mejor escalado en la composición,heuristic_extended
+Kindred,countered_by,1,Poppy,48.08,-2.72,tiene mejor rango y control de oleada,heuristic_extended
+Kindred,countered_by,2,Skarner,43.61,-2.77,tiene mejor rango y control de oleada,heuristic_extended
+Kindred,countered_by,3,Karthus,44.2,-4.56,tiene mejor rango y control de oleada,heuristic_extended
+Kindred,favored_against,1,Rengar,52.08,7.43,su kit responde bien al patrón rival,heuristic_extended
+Kindred,favored_against,2,JarvanIV,55.79,3.04,su kit responde bien al patrón rival,heuristic_extended
+Kindred,favored_against,3,MasterYi,51.95,3.04,su kit responde bien al patrón rival,heuristic_extended
+Kled,countered_by,1,Malphite,44.73,-6.61,castiga engages o dashes,heuristic_extended
+Kled,countered_by,2,Camille,46.81,-3.23,niega el plan principal del campeón,heuristic_extended
+Kled,countered_by,3,Renekton,44.39,-7.31,escala mejor y fuerza peleas favorables,heuristic_extended
+Kled,favored_against,1,Garen,54.8,7.5,puede abusar la fase temprana,heuristic_extended
+Kled,favored_against,2,Gangplank,56.96,4.52,controla mejor los intercambios,heuristic_extended
+Kled,favored_against,3,Kayle,56.91,4.29,tiene mejor escalado en la composición,heuristic_extended
+KogMaw,countered_by,1,Smolder,48.31,-5.53,escala mejor y fuerza peleas favorables,heuristic_extended
+KogMaw,countered_by,2,MissFortune,44.65,-5.78,escala mejor y fuerza peleas favorables,heuristic_extended
+KogMaw,countered_by,3,Ashe,44.87,-3.79,castiga engages o dashes,heuristic_extended
+KogMaw,favored_against,1,Lucian,52.98,4.26,tiene mejor escalado en la composición,heuristic_extended
+KogMaw,favored_against,2,KaiSa,51.96,2.82,controla mejor los intercambios,heuristic_extended
+KogMaw,favored_against,3,Swain,53.33,2.7,controla mejor los intercambios,heuristic_extended
+LeBlanc,countered_by,1,Lissandra,44.04,-5.8,tiene mejor rango y control de oleada,heuristic_extended
+LeBlanc,countered_by,2,Katarina,44.19,-6.01,supera la fase de línea,heuristic_extended
+LeBlanc,countered_by,3,Mel,44.08,-4.52,tiene mejor rango y control de oleada,heuristic_extended
+LeBlanc,favored_against,1,Irelia,55.0,3.98,controla mejor los intercambios,heuristic_extended
+LeBlanc,favored_against,2,Aurora,52.26,5.4,controla mejor los intercambios,heuristic_extended
+LeBlanc,favored_against,3,Swain,54.86,3.45,puede abusar la fase temprana,heuristic_extended
+LeeSin,countered_by,1,Poppy,45.42,-6.13,tiene mejor rango y control de oleada,curated_core
+LeeSin,countered_by,2,Ivern,46.84,-5.71,castiga engages o dashes,curated_core
+LeeSin,countered_by,3,Rammus,43.38,-5.72,supera la fase de línea,curated_core
+LeeSin,favored_against,1,Karthus,52.41,2.44,gana prioridad para objetivos,curated_core
+LeeSin,favored_against,2,Nidalee,55.94,2.71,su kit responde bien al patrón rival,curated_core
+LeeSin,favored_against,3,Evelynn,55.86,5.45,su kit responde bien al patrón rival,curated_core
+Leona,countered_by,1,Sona,45.3,-6.99,supera la fase de línea,heuristic_extended
+Leona,countered_by,2,Milio,44.89,-2.46,castiga engages o dashes,heuristic_extended
+Leona,countered_by,3,Braum,43.69,-5.24,castiga engages o dashes,heuristic_extended
+Leona,favored_against,1,Zyra,57.65,2.23,tiene mejor escalado en la composición,heuristic_extended
+Leona,favored_against,2,Maokai,53.88,6.58,su kit responde bien al patrón rival,heuristic_extended
+Leona,favored_against,3,Wukong,56.73,3.57,gana prioridad para objetivos,heuristic_extended
+Lillia,countered_by,1,Amumu,46.41,-4.2,niega el plan principal del campeón,heuristic_extended
+Lillia,countered_by,2,Warwick,46.44,-7.78,tiene mejor rango y control de oleada,heuristic_extended
+Lillia,countered_by,3,Rammus,45.47,-3.85,supera la fase de línea,heuristic_extended
+Lillia,favored_against,1,JarvanIV,55.22,6.07,su kit responde bien al patrón rival,heuristic_extended
+Lillia,favored_against,2,Maokai,57.53,5.74,gana prioridad para objetivos,heuristic_extended
+Lillia,favored_against,3,Diana,56.73,7.5,gana prioridad para objetivos,heuristic_extended
+Lissandra,countered_by,1,Viktor,43.53,-7.42,castiga engages o dashes,heuristic_extended
+Lissandra,countered_by,2,Corki,44.72,-6.73,supera la fase de línea,heuristic_extended
+Lissandra,countered_by,3,Orianna,47.21,-2.47,niega el plan principal del campeón,heuristic_extended
+Lissandra,favored_against,1,Yasuo,57.41,4.01,su kit responde bien al patrón rival,heuristic_extended
+Lissandra,favored_against,2,VelKoz,52.54,7.21,gana prioridad para objetivos,heuristic_extended
+Lissandra,favored_against,3,Malzahar,53.72,5.67,controla mejor los intercambios,heuristic_extended
+Lucian,countered_by,1,Tristana,45.88,-2.89,supera la fase de línea,heuristic_extended
+Lucian,countered_by,2,Varus,48.43,-5.89,escala mejor y fuerza peleas favorables,heuristic_extended
+Lucian,countered_by,3,Ziggs,44.03,-2.61,niega el plan principal del campeón,heuristic_extended
+Lucian,favored_against,1,Nilah,55.19,7.15,controla mejor los intercambios,heuristic_extended
+Lucian,favored_against,2,Zeri,54.97,5.19,puede abusar la fase temprana,heuristic_extended
+Lucian,favored_against,3,Katarina,55.29,5.06,gana prioridad para objetivos,heuristic_extended
+Lulu,countered_by,1,Blitzcrank,48.63,-4.77,castiga engages o dashes,curated_core
+Lulu,countered_by,2,Pyke,46.78,-5.72,castiga engages o dashes,curated_core
+Lulu,countered_by,3,Nautilus,44.43,-3.41,supera la fase de línea,curated_core
+Lulu,favored_against,1,Leona,53.02,4.1,tiene mejor escalado en la composición,curated_core
+Lulu,favored_against,2,Rakan,51.51,6.67,controla mejor los intercambios,curated_core
+Lulu,favored_against,3,Alistar,55.33,2.5,tiene mejor escalado en la composición,curated_core
+Lux,countered_by,1,Azir,48.05,-3.98,escala mejor y fuerza peleas favorables,heuristic_extended
+Lux,countered_by,2,Ahri,47.7,-4.68,escala mejor y fuerza peleas favorables,heuristic_extended
+Lux,countered_by,3,Taliyah,43.97,-7.79,niega el plan principal del campeón,heuristic_extended
+Lux,favored_against,1,Sylas,54.98,6.18,controla mejor los intercambios,heuristic_extended
+Lux,favored_against,2,Ryze,57.56,6.83,controla mejor los intercambios,heuristic_extended
+Lux,favored_against,3,Yasuo,56.45,4.35,puede abusar la fase temprana,heuristic_extended
+Malphite,countered_by,1,Sylas,47.16,-3.81,niega el plan principal del campeón,curated_core
+Malphite,countered_by,2,Mordekaiser,43.25,-7.08,escala mejor y fuerza peleas favorables,curated_core
+Malphite,countered_by,3,Gwen,48.23,-3.9,escala mejor y fuerza peleas favorables,curated_core
+Malphite,favored_against,1,Tryndamere,54.2,7.05,puede abusar la fase temprana,curated_core
+Malphite,favored_against,2,Yasuo,52.32,2.45,su kit responde bien al patrón rival,curated_core
+Malphite,favored_against,3,Quinn,52.12,2.3,gana prioridad para objetivos,curated_core
+Malzahar,countered_by,1,Ryze,46.9,-5.7,supera la fase de línea,heuristic_extended
+Malzahar,countered_by,2,Irelia,47.83,-5.55,castiga engages o dashes,heuristic_extended
+Malzahar,countered_by,3,Fizz,47.58,-5.03,escala mejor y fuerza peleas favorables,heuristic_extended
+Malzahar,favored_against,1,Cassiopeia,51.55,2.73,gana prioridad para objetivos,heuristic_extended
+Malzahar,favored_against,2,Ziggs,52.28,5.14,tiene mejor escalado en la composición,heuristic_extended
+Malzahar,favored_against,3,Aurora,51.4,5.91,controla mejor los intercambios,heuristic_extended
+Maokai,countered_by,1,Trundle,46.37,-3.03,escala mejor y fuerza peleas favorables,curated_core
+Maokai,countered_by,2,Brand,44.95,-4.26,escala mejor y fuerza peleas favorables,curated_core
+Maokai,countered_by,3,Lillia,47.25,-4.82,niega el plan principal del campeón,curated_core
+Maokai,favored_against,1,Rengar,55.71,4.57,tiene mejor escalado en la composición,curated_core
+Maokai,favored_against,2,KhaZix,53.12,2.9,tiene mejor escalado en la composición,curated_core
+Maokai,favored_against,3,LeeSin,52.54,3.87,su kit responde bien al patrón rival,curated_core
+MasterYi,countered_by,1,Gragas,44.94,-5.29,niega el plan principal del campeón,heuristic_extended
+MasterYi,countered_by,2,Karthus,44.02,-5.48,escala mejor y fuerza peleas favorables,heuristic_extended
+MasterYi,countered_by,3,Elise,46.16,-5.81,escala mejor y fuerza peleas favorables,heuristic_extended
+MasterYi,favored_against,1,JarvanIV,51.81,4.66,puede abusar la fase temprana,heuristic_extended
+MasterYi,favored_against,2,Ekko,56.89,6.55,tiene mejor escalado en la composición,heuristic_extended
+MasterYi,favored_against,3,Udyr,57.32,5.57,gana prioridad para objetivos,heuristic_extended
+Mel,countered_by,1,Azir,48.11,-4.69,supera la fase de línea,heuristic_extended
+Mel,countered_by,2,LeBlanc,48.02,-5.76,supera la fase de línea,heuristic_extended
+Mel,countered_by,3,Ziggs,48.4,-3.86,niega el plan principal del campeón,heuristic_extended
+Mel,favored_against,1,Fizz,56.11,3.11,tiene mejor escalado en la composición,heuristic_extended
+Mel,favored_against,2,TwistedFate,57.15,5.57,tiene mejor escalado en la composición,heuristic_extended
+Mel,favored_against,3,Sylas,57.47,7.57,controla mejor los intercambios,heuristic_extended
+Milio,countered_by,1,Swain,46.55,-4.25,niega el plan principal del campeón,heuristic_extended
+Milio,countered_by,2,Zyra,45.29,-6.13,niega el plan principal del campeón,heuristic_extended
+Milio,countered_by,3,RenataGlasc,45.8,-6.37,castiga engages o dashes,heuristic_extended
+Milio,favored_against,1,Morgana,53.63,4.33,tiene mejor escalado en la composición,heuristic_extended
+Milio,favored_against,2,Sona,56.82,7.11,tiene mejor escalado en la composición,heuristic_extended
+Milio,favored_against,3,Vi,53.31,6.58,gana prioridad para objetivos,heuristic_extended
+MissFortune,countered_by,1,Senna,45.68,-3.74,supera la fase de línea,heuristic_extended
+MissFortune,countered_by,2,Nilah,44.53,-2.77,niega el plan principal del campeón,heuristic_extended
+MissFortune,countered_by,3,Vayne,43.72,-6.51,niega el plan principal del campeón,heuristic_extended
+MissFortune,favored_against,1,Aphelios,55.83,4.84,controla mejor los intercambios,heuristic_extended
+MissFortune,favored_against,2,Draven,51.32,3.38,su kit responde bien al patrón rival,heuristic_extended
+MissFortune,favored_against,3,Varus,55.28,5.7,tiene mejor escalado en la composición,heuristic_extended
+Mordekaiser,countered_by,1,Vladimir,47.93,-2.55,escala mejor y fuerza peleas favorables,heuristic_extended
+Mordekaiser,countered_by,2,Ornn,45.16,-6.7,castiga engages o dashes,heuristic_extended
+Mordekaiser,countered_by,3,Volibear,46.74,-4.59,castiga engages o dashes,heuristic_extended
+Mordekaiser,favored_against,1,Illaoi,51.61,4.47,gana prioridad para objetivos,heuristic_extended
+Mordekaiser,favored_against,2,Sett,51.79,5.95,tiene mejor escalado en la composición,heuristic_extended
+Mordekaiser,favored_against,3,Seraphine,52.22,2.53,controla mejor los intercambios,heuristic_extended
+Morgana,countered_by,1,Nami,46.83,-5.25,castiga engages o dashes,heuristic_extended
+Morgana,countered_by,2,Lux,45.65,-5.94,tiene mejor rango y control de oleada,heuristic_extended
+Morgana,countered_by,3,Soraka,46.68,-3.69,supera la fase de línea,heuristic_extended
+Morgana,favored_against,1,Bard,54.11,7.06,puede abusar la fase temprana,heuristic_extended
+Morgana,favored_against,2,Alistar,52.42,5.78,controla mejor los intercambios,heuristic_extended
+Morgana,favored_against,3,Swain,56.14,4.14,gana prioridad para objetivos,heuristic_extended
+Naafiri,countered_by,1,Ahri,45.33,-4.82,escala mejor y fuerza peleas favorables,heuristic_extended
+Naafiri,countered_by,2,Azir,46.65,-5.02,escala mejor y fuerza peleas favorables,heuristic_extended
+Naafiri,countered_by,3,Vladimir,48.39,-4.81,escala mejor y fuerza peleas favorables,heuristic_extended
+Naafiri,favored_against,1,Corki,53.65,3.7,tiene mejor escalado en la composición,heuristic_extended
+Naafiri,favored_against,2,Yone,56.55,6.21,su kit responde bien al patrón rival,heuristic_extended
+Naafiri,favored_against,3,Sett,57.56,7.42,gana prioridad para objetivos,heuristic_extended
+Nami,countered_by,1,Rakan,44.22,-7.32,castiga engages o dashes,heuristic_extended
+Nami,countered_by,2,Blitzcrank,43.21,-5.0,escala mejor y fuerza peleas favorables,heuristic_extended
+Nami,countered_by,3,Taric,43.72,-6.92,niega el plan principal del campeón,heuristic_extended
+Nami,favored_against,1,Sona,56.24,4.69,tiene mejor escalado en la composición,heuristic_extended
+Nami,favored_against,2,Pyke,52.16,2.99,su kit responde bien al patrón rival,heuristic_extended
+Nami,favored_against,3,Karma,55.67,5.05,gana prioridad para objetivos,heuristic_extended
+Nasus,countered_by,1,Gangplank,46.94,-3.73,niega el plan principal del campeón,heuristic_extended
+Nasus,countered_by,2,Kennen,47.58,-5.27,escala mejor y fuerza peleas favorables,heuristic_extended
+Nasus,countered_by,3,Kled,47.81,-2.43,castiga engages o dashes,heuristic_extended
+Nasus,favored_against,1,Mordekaiser,53.16,3.77,tiene mejor escalado en la composición,heuristic_extended
+Nasus,favored_against,2,Camille,52.77,4.73,controla mejor los intercambios,heuristic_extended
+Nasus,favored_against,3,Yone,53.65,5.58,tiene mejor escalado en la composición,heuristic_extended
+Nautilus,countered_by,1,Morgana,43.81,-7.57,tiene mejor rango y control de oleada,curated_core
+Nautilus,countered_by,2,Janna,45.37,-5.05,escala mejor y fuerza peleas favorables,curated_core
+Nautilus,countered_by,3,Braum,45.83,-2.9,supera la fase de línea,curated_core
+Nautilus,favored_against,1,Yuumi,55.52,5.0,tiene mejor escalado en la composición,curated_core
+Nautilus,favored_against,2,Sona,53.05,6.51,su kit responde bien al patrón rival,curated_core
+Nautilus,favored_against,3,Senna,57.02,7.14,su kit responde bien al patrón rival,curated_core
+Neeko,countered_by,1,Hwei,46.06,-3.93,niega el plan principal del campeón,heuristic_extended
+Neeko,countered_by,2,Akali,46.54,-5.83,tiene mejor rango y control de oleada,heuristic_extended
+Neeko,countered_by,3,Ahri,44.25,-2.62,tiene mejor rango y control de oleada,heuristic_extended
+Neeko,favored_against,1,Katarina,57.13,3.15,su kit responde bien al patrón rival,heuristic_extended
+Neeko,favored_against,2,Tristana,54.52,5.11,puede abusar la fase temprana,heuristic_extended
+Neeko,favored_against,3,Taliyah,52.55,4.82,su kit responde bien al patrón rival,heuristic_extended
+Nidalee,countered_by,1,Vi,45.34,-4.27,supera la fase de línea,curated_core
+Nidalee,countered_by,2,JarvanIV,46.84,-5.8,tiene mejor rango y control de oleada,curated_core
+Nidalee,countered_by,3,Poppy,44.56,-3.21,niega el plan principal del campeón,curated_core
+Nidalee,favored_against,1,Karthus,57.69,3.45,su kit responde bien al patrón rival,curated_core
+Nidalee,favored_against,2,Lillia,53.49,7.02,tiene mejor escalado en la composición,curated_core
+Nidalee,favored_against,3,Fiddlesticks,54.1,5.35,controla mejor los intercambios,curated_core
+Nilah,countered_by,1,Tristana,45.88,-5.53,escala mejor y fuerza peleas favorables,heuristic_extended
+Nilah,countered_by,2,MissFortune,43.89,-4.73,castiga engages o dashes,heuristic_extended
+Nilah,countered_by,3,Ashe,44.59,-4.96,niega el plan principal del campeón,heuristic_extended
+Nilah,favored_against,1,Twitch,57.68,2.98,gana prioridad para objetivos,heuristic_extended
+Nilah,favored_against,2,Ezreal,53.08,3.41,controla mejor los intercambios,heuristic_extended
+Nilah,favored_against,3,Ziggs,53.62,4.96,gana prioridad para objetivos,heuristic_extended
+Nocturne,countered_by,1,Fiddlesticks,48.17,-6.07,niega el plan principal del campeón,heuristic_extended
+Nocturne,countered_by,2,XinZhao,46.5,-7.24,supera la fase de línea,heuristic_extended
+Nocturne,countered_by,3,Poppy,43.87,-4.99,escala mejor y fuerza peleas favorables,heuristic_extended
+Nocturne,favored_against,1,Skarner,51.76,4.98,puede abusar la fase temprana,heuristic_extended
+Nocturne,favored_against,2,Ivern,53.25,2.67,puede abusar la fase temprana,heuristic_extended
+Nocturne,favored_against,3,Udyr,53.28,3.22,controla mejor los intercambios,heuristic_extended
+Nunu,countered_by,1,Zac,46.88,-7.48,castiga engages o dashes,heuristic_extended
+Nunu,countered_by,2,XinZhao,46.54,-6.01,escala mejor y fuerza peleas favorables,heuristic_extended
+Nunu,countered_by,3,Rammus,46.59,-4.51,castiga engages o dashes,heuristic_extended
+Nunu,favored_against,1,Warwick,55.03,6.07,controla mejor los intercambios,heuristic_extended
+Nunu,favored_against,2,RekSai,56.42,6.6,tiene mejor escalado en la composición,heuristic_extended
+Nunu,favored_against,3,Diana,53.83,4.87,su kit responde bien al patrón rival,heuristic_extended
+Olaf,countered_by,1,Malphite,46.71,-3.35,niega el plan principal del campeón,heuristic_extended
+Olaf,countered_by,2,Riven,43.42,-2.57,tiene mejor rango y control de oleada,heuristic_extended
+Olaf,countered_by,3,Mordekaiser,46.52,-7.15,niega el plan principal del campeón,heuristic_extended
+Olaf,favored_against,1,Yone,53.6,4.4,gana prioridad para objetivos,heuristic_extended
+Olaf,favored_against,2,Kennen,52.88,3.16,tiene mejor escalado en la composición,heuristic_extended
+Olaf,favored_against,3,Aphelios,57.68,5.28,gana prioridad para objetivos,heuristic_extended
+Orianna,countered_by,1,Syndra,48.24,-2.68,supera la fase de línea,curated_core
+Orianna,countered_by,2,LeBlanc,47.74,-6.29,supera la fase de línea,curated_core
+Orianna,countered_by,3,Xerath,46.01,-3.72,niega el plan principal del campeón,curated_core
+Orianna,favored_against,1,Galio,53.28,2.56,gana prioridad para objetivos,curated_core
+Orianna,favored_against,2,Lissandra,53.61,5.9,gana prioridad para objetivos,curated_core
+Orianna,favored_against,3,Viktor,51.87,2.69,su kit responde bien al patrón rival,curated_core
+Ornn,countered_by,1,Malphite,47.44,-6.36,tiene mejor rango y control de oleada,heuristic_extended
+Ornn,countered_by,2,Kled,45.28,-3.65,tiene mejor rango y control de oleada,heuristic_extended
+Ornn,countered_by,3,Gwen,45.4,-5.73,tiene mejor rango y control de oleada,heuristic_extended
+Ornn,favored_against,1,Gangplank,51.82,7.03,su kit responde bien al patrón rival,heuristic_extended
+Ornn,favored_against,2,Darius,53.44,2.48,puede abusar la fase temprana,heuristic_extended
+Ornn,favored_against,3,Vayne,57.34,2.74,tiene mejor escalado en la composición,heuristic_extended
+Pantheon,countered_by,1,Kassadin,47.92,-6.04,castiga engages o dashes,heuristic_extended
+Pantheon,countered_by,2,Vex,44.57,-2.68,tiene mejor rango y control de oleada,heuristic_extended
+Pantheon,countered_by,3,Lux,48.01,-3.62,tiene mejor rango y control de oleada,heuristic_extended
+Pantheon,favored_against,1,LeBlanc,56.58,2.37,controla mejor los intercambios,heuristic_extended
+Pantheon,favored_against,2,Anivia,56.95,3.62,controla mejor los intercambios,heuristic_extended
+Pantheon,favored_against,3,Janna,54.15,4.08,puede abusar la fase temprana,heuristic_extended
+Poppy,countered_by,1,Trundle,47.45,-4.79,castiga engages o dashes,curated_core
+Poppy,countered_by,2,Olaf,46.41,-4.17,tiene mejor rango y control de oleada,curated_core
+Poppy,countered_by,3,Mordekaiser,47.8,-3.71,castiga engages o dashes,curated_core
+Poppy,favored_against,1,LeeSin,57.61,5.88,tiene mejor escalado en la composición,curated_core
+Poppy,favored_against,2,JarvanIV,56.92,5.46,su kit responde bien al patrón rival,curated_core
+Poppy,favored_against,3,Vi,56.18,6.56,controla mejor los intercambios,curated_core
+Pyke,countered_by,1,Lux,48.36,-2.71,niega el plan principal del campeón,heuristic_extended
+Pyke,countered_by,2,RenataGlasc,47.25,-3.68,escala mejor y fuerza peleas favorables,heuristic_extended
+Pyke,countered_by,3,Morgana,43.7,-6.88,supera la fase de línea,heuristic_extended
+Pyke,favored_against,1,Leona,51.81,5.74,gana prioridad para objetivos,heuristic_extended
+Pyke,favored_against,2,Thresh,53.31,6.14,puede abusar la fase temprana,heuristic_extended
+Pyke,favored_against,3,Rell,56.96,4.84,su kit responde bien al patrón rival,heuristic_extended
+Qiyana,countered_by,1,Brand,46.23,-3.18,supera la fase de línea,heuristic_extended
+Qiyana,countered_by,2,Zed,43.99,-4.33,escala mejor y fuerza peleas favorables,heuristic_extended
+Qiyana,countered_by,3,Sylas,44.57,-3.42,niega el plan principal del campeón,heuristic_extended
+Qiyana,favored_against,1,VelKoz,52.97,3.6,puede abusar la fase temprana,heuristic_extended
+Qiyana,favored_against,2,Vex,57.2,5.85,tiene mejor escalado en la composición,heuristic_extended
+Qiyana,favored_against,3,Kassadin,56.99,6.79,tiene mejor escalado en la composición,heuristic_extended
+Quinn,countered_by,1,KSante,44.98,-3.81,castiga engages o dashes,heuristic_extended
+Quinn,countered_by,2,Malphite,46.35,-5.85,niega el plan principal del campeón,heuristic_extended
+Quinn,countered_by,3,Gangplank,43.51,-6.73,supera la fase de línea,heuristic_extended
+Quinn,favored_against,1,Garen,54.14,4.01,puede abusar la fase temprana,heuristic_extended
+Quinn,favored_against,2,ChoGath,54.16,5.14,gana prioridad para objetivos,heuristic_extended
+Quinn,favored_against,3,Nasus,52.9,4.68,su kit responde bien al patrón rival,heuristic_extended
+Rakan,countered_by,1,Poppy,45.56,-4.35,tiene mejor rango y control de oleada,curated_core
+Rakan,countered_by,2,Janna,46.26,-7.37,castiga engages o dashes,curated_core
+Rakan,countered_by,3,Morgana,46.47,-3.75,niega el plan principal del campeón,curated_core
+Rakan,favored_against,1,Sona,54.17,2.59,controla mejor los intercambios,curated_core
+Rakan,favored_against,2,Yuumi,56.13,6.69,gana prioridad para objetivos,curated_core
+Rakan,favored_against,3,Seraphine,55.27,6.19,gana prioridad para objetivos,curated_core
+Rammus,countered_by,1,Udyr,44.3,-2.6,tiene mejor rango y control de oleada,heuristic_extended
+Rammus,countered_by,2,Graves,48.07,-6.16,escala mejor y fuerza peleas favorables,heuristic_extended
+Rammus,countered_by,3,RekSai,45.89,-6.03,tiene mejor rango y control de oleada,heuristic_extended
+Rammus,favored_against,1,MasterYi,52.28,6.41,puede abusar la fase temprana,heuristic_extended
+Rammus,favored_against,2,Briar,51.85,3.6,tiene mejor escalado en la composición,heuristic_extended
+Rammus,favored_against,3,Ivern,57.17,2.81,su kit responde bien al patrón rival,heuristic_extended
+RekSai,countered_by,1,Elise,46.92,-4.75,escala mejor y fuerza peleas favorables,heuristic_extended
+RekSai,countered_by,2,Shyvana,44.39,-4.69,supera la fase de línea,heuristic_extended
+RekSai,countered_by,3,Maokai,48.36,-4.19,tiene mejor rango y control de oleada,heuristic_extended
+RekSai,favored_against,1,Gragas,57.34,2.95,tiene mejor escalado en la composición,heuristic_extended
+RekSai,favored_against,2,Ivern,51.77,2.31,tiene mejor escalado en la composición,heuristic_extended
+RekSai,favored_against,3,Rammus,54.85,5.22,puede abusar la fase temprana,heuristic_extended
+Rell,countered_by,1,Yuumi,46.34,-2.55,escala mejor y fuerza peleas favorables,heuristic_extended
+Rell,countered_by,2,Morgana,45.02,-4.39,supera la fase de línea,heuristic_extended
+Rell,countered_by,3,Soraka,46.62,-6.64,tiene mejor rango y control de oleada,heuristic_extended
+Rell,favored_against,1,Karma,56.77,6.17,controla mejor los intercambios,heuristic_extended
+Rell,favored_against,2,Swain,54.49,5.21,puede abusar la fase temprana,heuristic_extended
+Rell,favored_against,3,Rakan,53.55,4.44,su kit responde bien al patrón rival,heuristic_extended
+RenataGlasc,countered_by,1,Braum,45.77,-7.51,castiga engages o dashes,heuristic_extended
+RenataGlasc,countered_by,2,Leona,43.21,-3.65,castiga engages o dashes,heuristic_extended
+RenataGlasc,countered_by,3,Milio,48.67,-5.56,supera la fase de línea,heuristic_extended
+RenataGlasc,favored_against,1,Rell,55.56,6.15,su kit responde bien al patrón rival,heuristic_extended
+RenataGlasc,favored_against,2,Lulu,56.27,5.4,su kit responde bien al patrón rival,heuristic_extended
+RenataGlasc,favored_against,3,Sona,55.0,6.6,tiene mejor escalado en la composición,heuristic_extended
+Renekton,countered_by,1,Quinn,46.36,-2.94,niega el plan principal del campeón,curated_core
+Renekton,countered_by,2,Vayne,43.73,-6.99,escala mejor y fuerza peleas favorables,curated_core
+Renekton,countered_by,3,Malphite,43.57,-5.69,supera la fase de línea,curated_core
+Renekton,favored_against,1,Yasuo,56.15,5.14,puede abusar la fase temprana,curated_core
+Renekton,favored_against,2,Yone,56.73,5.03,puede abusar la fase temprana,curated_core
+Renekton,favored_against,3,Riven,53.42,3.28,tiene mejor escalado en la composición,curated_core
+Rengar,countered_by,1,Hecarim,46.59,-5.69,escala mejor y fuerza peleas favorables,heuristic_extended
+Rengar,countered_by,2,Poppy,44.34,-4.92,tiene mejor rango y control de oleada,heuristic_extended
+Rengar,countered_by,3,Rammus,45.33,-6.88,supera la fase de línea,heuristic_extended
+Rengar,favored_against,1,Diana,53.32,5.34,gana prioridad para objetivos,heuristic_extended
+Rengar,favored_against,2,LeeSin,53.47,4.97,controla mejor los intercambios,heuristic_extended
+Rengar,favored_against,3,Skarner,56.68,6.1,gana prioridad para objetivos,heuristic_extended
+Riven,countered_by,1,Vladimir,46.34,-6.6,niega el plan principal del campeón,heuristic_extended
+Riven,countered_by,2,Camille,44.16,-5.8,escala mejor y fuerza peleas favorables,heuristic_extended
+Riven,countered_by,3,DrMundo,47.49,-3.61,castiga engages o dashes,heuristic_extended
+Riven,favored_against,1,Olaf,52.33,3.27,tiene mejor escalado en la composición,heuristic_extended
+Riven,favored_against,2,Sion,53.39,6.33,controla mejor los intercambios,heuristic_extended
+Riven,favored_against,3,Aatrox,55.21,4.74,tiene mejor escalado en la composición,heuristic_extended
+Rumble,countered_by,1,Shen,43.8,-4.58,castiga engages o dashes,heuristic_extended
+Rumble,countered_by,2,Jax,43.27,-5.17,tiene mejor rango y control de oleada,heuristic_extended
+Rumble,countered_by,3,Vayne,43.83,-7.48,escala mejor y fuerza peleas favorables,heuristic_extended
+Rumble,favored_against,1,Ornn,54.46,3.52,gana prioridad para objetivos,heuristic_extended
+Rumble,favored_against,2,Olaf,56.3,7.31,puede abusar la fase temprana,heuristic_extended
+Rumble,favored_against,3,Lucian,54.56,3.88,controla mejor los intercambios,heuristic_extended
+Ryze,countered_by,1,Fizz,43.83,-4.9,supera la fase de línea,heuristic_extended
+Ryze,countered_by,2,AurelionSol,45.35,-5.53,escala mejor y fuerza peleas favorables,heuristic_extended
+Ryze,countered_by,3,Tristana,46.56,-5.97,castiga engages o dashes,heuristic_extended
+Ryze,favored_against,1,Yasuo,53.31,6.89,gana prioridad para objetivos,heuristic_extended
+Ryze,favored_against,2,Galio,57.52,3.36,gana prioridad para objetivos,heuristic_extended
+Ryze,favored_against,3,Annie,57.23,7.11,su kit responde bien al patrón rival,heuristic_extended
+Samira,countered_by,1,Senna,47.28,-4.3,tiene mejor rango y control de oleada,heuristic_extended
+Samira,countered_by,2,Smolder,45.73,-4.65,tiene mejor rango y control de oleada,heuristic_extended
+Samira,countered_by,3,MissFortune,43.98,-7.35,castiga engages o dashes,heuristic_extended
+Samira,favored_against,1,Jinx,57.1,3.38,tiene mejor escalado en la composición,heuristic_extended
+Samira,favored_against,2,Xayah,55.87,6.82,controla mejor los intercambios,heuristic_extended
+Samira,favored_against,3,Zeri,54.06,6.74,gana prioridad para objetivos,heuristic_extended
+Sejuani,countered_by,1,Poppy,46.68,-4.0,supera la fase de línea,heuristic_extended
+Sejuani,countered_by,2,Rengar,43.65,-3.9,tiene mejor rango y control de oleada,heuristic_extended
+Sejuani,countered_by,3,Diana,43.22,-3.87,niega el plan principal del campeón,heuristic_extended
+Sejuani,favored_against,1,Warwick,53.83,4.91,gana prioridad para objetivos,heuristic_extended
+Sejuani,favored_against,2,Hecarim,56.65,4.42,gana prioridad para objetivos,heuristic_extended
+Sejuani,favored_against,3,RekSai,54.85,2.22,puede abusar la fase temprana,heuristic_extended
+Senna,countered_by,1,Ezreal,47.7,-6.53,castiga engages o dashes,heuristic_extended
+Senna,countered_by,2,Jinx,48.31,-6.64,escala mejor y fuerza peleas favorables,heuristic_extended
+Senna,countered_by,3,Caitlyn,44.17,-2.85,escala mejor y fuerza peleas favorables,heuristic_extended
+Senna,favored_against,1,Nilah,53.58,3.22,gana prioridad para objetivos,heuristic_extended
+Senna,favored_against,2,Aphelios,54.27,7.57,su kit responde bien al patrón rival,heuristic_extended
+Senna,favored_against,3,LeeSin,52.81,4.36,controla mejor los intercambios,heuristic_extended
+Seraphine,countered_by,1,Yuumi,43.97,-7.72,escala mejor y fuerza peleas favorables,heuristic_extended
+Seraphine,countered_by,2,Blitzcrank,47.21,-3.6,escala mejor y fuerza peleas favorables,heuristic_extended
+Seraphine,countered_by,3,Neeko,45.59,-2.68,niega el plan principal del campeón,heuristic_extended
+Seraphine,favored_against,1,Soraka,51.33,4.05,puede abusar la fase temprana,heuristic_extended
+Seraphine,favored_against,2,Thresh,52.29,2.82,tiene mejor escalado en la composición,heuristic_extended
+Seraphine,favored_against,3,Brand,57.77,2.37,tiene mejor escalado en la composición,heuristic_extended
+Sett,countered_by,1,Jax,47.11,-6.72,escala mejor y fuerza peleas favorables,heuristic_extended
+Sett,countered_by,2,Gwen,46.57,-5.49,tiene mejor rango y control de oleada,heuristic_extended
+Sett,countered_by,3,Vladimir,46.23,-4.15,escala mejor y fuerza peleas favorables,heuristic_extended
+Sett,favored_against,1,Gnar,56.84,4.13,controla mejor los intercambios,heuristic_extended
+Sett,favored_against,2,Shen,54.49,4.05,tiene mejor escalado en la composición,heuristic_extended
+Sett,favored_against,3,Taric,54.52,5.84,gana prioridad para objetivos,heuristic_extended
+Shaco,countered_by,1,Nunu,45.89,-7.67,supera la fase de línea,heuristic_extended
+Shaco,countered_by,2,Amumu,43.78,-3.3,castiga engages o dashes,heuristic_extended
+Shaco,countered_by,3,KhaZix,44.06,-5.65,escala mejor y fuerza peleas favorables,heuristic_extended
+Shaco,favored_against,1,Evelynn,56.38,3.44,su kit responde bien al patrón rival,heuristic_extended
+Shaco,favored_against,2,Rammus,57.75,2.61,controla mejor los intercambios,heuristic_extended
+Shaco,favored_against,3,Akali,57.33,7.51,su kit responde bien al patrón rival,heuristic_extended
+Shen,countered_by,1,Jax,48.3,-7.12,castiga engages o dashes,heuristic_extended
+Shen,countered_by,2,Gwen,44.69,-6.27,escala mejor y fuerza peleas favorables,heuristic_extended
+Shen,countered_by,3,Olaf,45.11,-2.58,niega el plan principal del campeón,heuristic_extended
+Shen,favored_against,1,Urgot,56.04,2.51,su kit responde bien al patrón rival,heuristic_extended
+Shen,favored_against,2,Malphite,55.55,5.42,controla mejor los intercambios,heuristic_extended
+Shen,favored_against,3,Vex,57.63,3.37,su kit responde bien al patrón rival,heuristic_extended
+Shyvana,countered_by,1,Zac,47.36,-4.77,niega el plan principal del campeón,heuristic_extended
+Shyvana,countered_by,2,Shaco,47.09,-5.88,escala mejor y fuerza peleas favorables,heuristic_extended
+Shyvana,countered_by,3,Wukong,46.82,-6.17,escala mejor y fuerza peleas favorables,heuristic_extended
+Shyvana,favored_against,1,XinZhao,55.63,2.38,controla mejor los intercambios,heuristic_extended
+Shyvana,favored_against,2,Maokai,55.67,6.14,puede abusar la fase temprana,heuristic_extended
+Shyvana,favored_against,3,Talon,55.59,6.01,puede abusar la fase temprana,heuristic_extended
+Singed,countered_by,1,KSante,47.25,-3.9,supera la fase de línea,heuristic_extended
+Singed,countered_by,2,Yasuo,48.22,-4.54,supera la fase de línea,heuristic_extended
+Singed,countered_by,3,ChoGath,46.58,-4.26,escala mejor y fuerza peleas favorables,heuristic_extended
+Singed,favored_against,1,Ornn,55.7,4.34,tiene mejor escalado en la composición,heuristic_extended
+Singed,favored_against,2,Nasus,53.06,5.11,puede abusar la fase temprana,heuristic_extended
+Singed,favored_against,3,Olaf,57.16,6.35,su kit responde bien al patrón rival,heuristic_extended
+Sion,countered_by,1,KSante,44.71,-5.6,tiene mejor rango y control de oleada,heuristic_extended
+Sion,countered_by,2,Singed,47.99,-3.27,supera la fase de línea,heuristic_extended
+Sion,countered_by,3,Jayce,47.51,-7.06,supera la fase de línea,heuristic_extended
+Sion,favored_against,1,ChoGath,55.47,7.59,tiene mejor escalado en la composición,heuristic_extended
+Sion,favored_against,2,Gnar,54.54,6.13,gana prioridad para objetivos,heuristic_extended
+Sion,favored_against,3,Illaoi,52.7,2.36,controla mejor los intercambios,heuristic_extended
+Sivir,countered_by,1,Senna,45.54,-5.02,tiene mejor rango y control de oleada,heuristic_extended
+Sivir,countered_by,2,MissFortune,44.75,-7.62,escala mejor y fuerza peleas favorables,heuristic_extended
+Sivir,countered_by,3,Varus,47.82,-7.74,supera la fase de línea,heuristic_extended
+Sivir,favored_against,1,Ashe,56.53,6.04,gana prioridad para objetivos,heuristic_extended
+Sivir,favored_against,2,Draven,51.88,3.62,su kit responde bien al patrón rival,heuristic_extended
+Sivir,favored_against,3,Olaf,53.08,5.31,controla mejor los intercambios,heuristic_extended
+Skarner,countered_by,1,JarvanIV,45.61,-5.8,supera la fase de línea,heuristic_extended
+Skarner,countered_by,2,Gragas,47.02,-3.78,supera la fase de línea,heuristic_extended
+Skarner,countered_by,3,Viego,45.1,-2.88,supera la fase de línea,heuristic_extended
+Skarner,favored_against,1,Nidalee,53.61,4.38,puede abusar la fase temprana,heuristic_extended
+Skarner,favored_against,2,Taliyah,53.41,2.27,controla mejor los intercambios,heuristic_extended
+Skarner,favored_against,3,BelVeth,51.41,5.04,tiene mejor escalado en la composición,heuristic_extended
+Smolder,countered_by,1,Draven,47.42,-3.0,niega el plan principal del campeón,curated_core
+Smolder,countered_by,2,Caitlyn,48.12,-6.93,supera la fase de línea,curated_core
+Smolder,countered_by,3,Lucian,44.22,-6.95,niega el plan principal del campeón,curated_core
+Smolder,favored_against,1,Sivir,53.29,5.12,controla mejor los intercambios,curated_core
+Smolder,favored_against,2,Jinx,53.32,4.35,tiene mejor escalado en la composición,curated_core
+Smolder,favored_against,3,KogMaw,56.81,3.44,tiene mejor escalado en la composición,curated_core
+Sona,countered_by,1,Morgana,44.15,-5.68,castiga engages o dashes,heuristic_extended
+Sona,countered_by,2,Lulu,43.54,-2.96,niega el plan principal del campeón,heuristic_extended
+Sona,countered_by,3,Braum,44.41,-5.34,tiene mejor rango y control de oleada,heuristic_extended
+Sona,favored_against,1,Lux,57.62,7.01,su kit responde bien al patrón rival,heuristic_extended
+Sona,favored_against,2,Maokai,52.71,7.38,tiene mejor escalado en la composición,heuristic_extended
+Sona,favored_against,3,Veigar,53.97,2.31,controla mejor los intercambios,heuristic_extended
+Soraka,countered_by,1,Sona,45.69,-6.93,supera la fase de línea,heuristic_extended
+Soraka,countered_by,2,Rakan,47.06,-2.95,tiene mejor rango y control de oleada,heuristic_extended
+Soraka,countered_by,3,RenataGlasc,43.57,-2.41,niega el plan principal del campeón,heuristic_extended
+Soraka,favored_against,1,Rell,51.46,4.87,puede abusar la fase temprana,heuristic_extended
+Soraka,favored_against,2,Milio,53.9,3.54,gana prioridad para objetivos,heuristic_extended
+Soraka,favored_against,3,Pyke,57.44,3.89,gana prioridad para objetivos,heuristic_extended
+Swain,countered_by,1,Hwei,48.58,-4.67,niega el plan principal del campeón,heuristic_extended
+Swain,countered_by,2,Mel,48.14,-6.5,tiene mejor rango y control de oleada,heuristic_extended
+Swain,countered_by,3,Ziggs,44.71,-3.58,niega el plan principal del campeón,heuristic_extended
+Swain,favored_against,1,TwistedFate,54.29,5.3,su kit responde bien al patrón rival,heuristic_extended
+Swain,favored_against,2,Malzahar,51.34,5.44,controla mejor los intercambios,heuristic_extended
+Swain,favored_against,3,Kassadin,51.55,6.51,tiene mejor escalado en la composición,heuristic_extended
+Sylas,countered_by,1,Veigar,46.47,-4.47,tiene mejor rango y control de oleada,heuristic_extended
+Sylas,countered_by,2,Akali,44.19,-5.53,escala mejor y fuerza peleas favorables,heuristic_extended
+Sylas,countered_by,3,Xerath,46.05,-3.97,niega el plan principal del campeón,heuristic_extended
+Sylas,favored_against,1,TwistedFate,54.69,7.25,tiene mejor escalado en la composición,heuristic_extended
+Sylas,favored_against,2,Syndra,57.16,3.84,tiene mejor escalado en la composición,heuristic_extended
+Sylas,favored_against,3,Ahri,56.76,5.26,gana prioridad para objetivos,heuristic_extended
+Syndra,countered_by,1,Ekko,47.55,-3.97,niega el plan principal del campeón,heuristic_extended
+Syndra,countered_by,2,Vex,47.82,-2.53,niega el plan principal del campeón,heuristic_extended
+Syndra,countered_by,3,Mel,46.94,-7.12,supera la fase de línea,heuristic_extended
+Syndra,favored_against,1,Zed,55.28,7.17,gana prioridad para objetivos,heuristic_extended
+Syndra,favored_against,2,Ryze,53.11,4.94,su kit responde bien al patrón rival,heuristic_extended
+Syndra,favored_against,3,Vladimir,53.62,3.76,gana prioridad para objetivos,heuristic_extended
+TahmKench,countered_by,1,Kayle,43.21,-4.91,escala mejor y fuerza peleas favorables,heuristic_extended
+TahmKench,countered_by,2,Mordekaiser,46.86,-6.36,supera la fase de línea,heuristic_extended
+TahmKench,countered_by,3,Tryndamere,46.38,-2.51,supera la fase de línea,heuristic_extended
+TahmKench,favored_against,1,Gnar,55.9,7.25,gana prioridad para objetivos,heuristic_extended
+TahmKench,favored_against,2,Ornn,54.68,6.34,puede abusar la fase temprana,heuristic_extended
+TahmKench,favored_against,3,Udyr,57.5,5.64,su kit responde bien al patrón rival,heuristic_extended
+Taliyah,countered_by,1,Fizz,45.77,-7.39,tiene mejor rango y control de oleada,curated_core
+Taliyah,countered_by,2,Katarina,46.91,-2.43,castiga engages o dashes,curated_core
+Taliyah,countered_by,3,Zed,44.62,-6.14,escala mejor y fuerza peleas favorables,curated_core
+Taliyah,favored_against,1,Sylas,52.39,6.31,gana prioridad para objetivos,curated_core
+Taliyah,favored_against,2,Akali,57.65,4.85,su kit responde bien al patrón rival,curated_core
+Taliyah,favored_against,3,Yasuo,53.85,5.37,su kit responde bien al patrón rival,curated_core
+Talon,countered_by,1,Zac,44.13,-5.64,tiene mejor rango y control de oleada,heuristic_extended
+Talon,countered_by,2,Udyr,44.23,-5.13,escala mejor y fuerza peleas favorables,heuristic_extended
+Talon,countered_by,3,Taliyah,45.25,-7.76,tiene mejor rango y control de oleada,heuristic_extended
+Talon,favored_against,1,Rengar,54.03,7.47,su kit responde bien al patrón rival,heuristic_extended
+Talon,favored_against,2,MasterYi,52.39,4.31,su kit responde bien al patrón rival,heuristic_extended
+Talon,favored_against,3,Viktor,55.77,3.96,gana prioridad para objetivos,heuristic_extended
+Taric,countered_by,1,Bard,48.68,-7.51,niega el plan principal del campeón,heuristic_extended
+Taric,countered_by,2,Maokai,46.05,-4.18,escala mejor y fuerza peleas favorables,heuristic_extended
+Taric,countered_by,3,Rell,44.96,-5.85,tiene mejor rango y control de oleada,heuristic_extended
+Taric,favored_against,1,Nami,56.6,5.03,puede abusar la fase temprana,heuristic_extended
+Taric,favored_against,2,Brand,52.24,2.62,su kit responde bien al patrón rival,heuristic_extended
+Taric,favored_against,3,Janna,54.5,5.89,puede abusar la fase temprana,heuristic_extended
+Teemo,countered_by,1,Nasus,45.99,-6.15,niega el plan principal del campeón,heuristic_extended
+Teemo,countered_by,2,Vayne,47.95,-2.88,niega el plan principal del campeón,heuristic_extended
+Teemo,countered_by,3,Malphite,43.32,-4.01,niega el plan principal del campeón,heuristic_extended
+Teemo,favored_against,1,Urgot,51.86,6.91,tiene mejor escalado en la composición,heuristic_extended
+Teemo,favored_against,2,Shen,56.28,3.1,gana prioridad para objetivos,heuristic_extended
+Teemo,favored_against,3,Renekton,56.79,3.01,puede abusar la fase temprana,heuristic_extended
+Thresh,countered_by,1,Lulu,43.49,-2.54,castiga engages o dashes,heuristic_extended
+Thresh,countered_by,2,Soraka,44.94,-6.88,niega el plan principal del campeón,heuristic_extended
+Thresh,countered_by,3,Alistar,48.29,-5.57,castiga engages o dashes,heuristic_extended
+Thresh,favored_against,1,Janna,52.6,7.16,tiene mejor escalado en la composición,heuristic_extended
+Thresh,favored_against,2,Lux,54.89,6.93,puede abusar la fase temprana,heuristic_extended
+Thresh,favored_against,3,Evelynn,52.22,3.02,tiene mejor escalado en la composición,heuristic_extended
+Tristana,countered_by,1,Irelia,44.17,-7.41,niega el plan principal del campeón,heuristic_extended
+Tristana,countered_by,2,Qiyana,44.85,-3.13,niega el plan principal del campeón,heuristic_extended
+Tristana,countered_by,3,Xerath,47.99,-2.71,tiene mejor rango y control de oleada,heuristic_extended
+Tristana,favored_against,1,Orianna,51.34,6.5,controla mejor los intercambios,heuristic_extended
+Tristana,favored_against,2,Kassadin,52.1,7.18,puede abusar la fase temprana,heuristic_extended
+Tristana,favored_against,3,KSante,56.39,6.3,tiene mejor escalado en la composición,heuristic_extended
+Trundle,countered_by,1,Renekton,45.94,-5.98,supera la fase de línea,heuristic_extended
+Trundle,countered_by,2,KSante,44.75,-2.59,escala mejor y fuerza peleas favorables,heuristic_extended
+Trundle,countered_by,3,Aatrox,45.82,-5.64,niega el plan principal del campeón,heuristic_extended
+Trundle,favored_against,1,DrMundo,51.37,4.07,su kit responde bien al patrón rival,heuristic_extended
+Trundle,favored_against,2,Vladimir,55.16,2.57,gana prioridad para objetivos,heuristic_extended
+Trundle,favored_against,3,Quinn,57.58,3.05,su kit responde bien al patrón rival,heuristic_extended
+Tryndamere,countered_by,1,Yone,47.48,-6.24,escala mejor y fuerza peleas favorables,heuristic_extended
+Tryndamere,countered_by,2,Volibear,44.85,-4.52,escala mejor y fuerza peleas favorables,heuristic_extended
+Tryndamere,countered_by,3,Renekton,43.88,-7.42,supera la fase de línea,heuristic_extended
+Tryndamere,favored_against,1,Mordekaiser,55.31,2.43,gana prioridad para objetivos,heuristic_extended
+Tryndamere,favored_against,2,Quinn,54.42,2.9,gana prioridad para objetivos,heuristic_extended
+Tryndamere,favored_against,3,Kled,56.81,5.04,su kit responde bien al patrón rival,heuristic_extended
+TwistedFate,countered_by,1,Veigar,48.12,-3.42,tiene mejor rango y control de oleada,heuristic_extended
+TwistedFate,countered_by,2,Lux,43.55,-3.46,tiene mejor rango y control de oleada,heuristic_extended
+TwistedFate,countered_by,3,Tristana,47.43,-3.98,tiene mejor rango y control de oleada,heuristic_extended
+TwistedFate,favored_against,1,Akali,52.51,5.79,tiene mejor escalado en la composición,heuristic_extended
+TwistedFate,favored_against,2,Naafiri,55.86,2.51,puede abusar la fase temprana,heuristic_extended
+TwistedFate,favored_against,3,Taliyah,56.45,4.25,puede abusar la fase temprana,heuristic_extended
+Twitch,countered_by,1,Senna,45.01,-7.58,tiene mejor rango y control de oleada,heuristic_extended
+Twitch,countered_by,2,Jhin,47.47,-3.68,castiga engages o dashes,heuristic_extended
+Twitch,countered_by,3,Nilah,43.96,-5.31,niega el plan principal del campeón,heuristic_extended
+Twitch,favored_against,1,Smolder,53.15,5.95,tiene mejor escalado en la composición,heuristic_extended
+Twitch,favored_against,2,Varus,52.45,7.12,gana prioridad para objetivos,heuristic_extended
+Twitch,favored_against,3,KaiSa,52.37,2.43,tiene mejor escalado en la composición,heuristic_extended
+Udyr,countered_by,1,Lillia,44.84,-5.0,escala mejor y fuerza peleas favorables,heuristic_extended
+Udyr,countered_by,2,Fiddlesticks,46.22,-4.62,tiene mejor rango y control de oleada,heuristic_extended
+Udyr,countered_by,3,Viego,46.46,-7.26,supera la fase de línea,heuristic_extended
+Udyr,favored_against,1,Briar,57.36,3.41,su kit responde bien al patrón rival,heuristic_extended
+Udyr,favored_against,2,LeeSin,52.93,4.05,su kit responde bien al patrón rival,heuristic_extended
+Udyr,favored_against,3,Akshan,57.15,5.36,gana prioridad para objetivos,heuristic_extended
+Urgot,countered_by,1,Rumble,45.47,-2.58,niega el plan principal del campeón,heuristic_extended
+Urgot,countered_by,2,Sett,47.63,-3.06,tiene mejor rango y control de oleada,heuristic_extended
+Urgot,countered_by,3,Jax,48.09,-5.71,tiene mejor rango y control de oleada,heuristic_extended
+Urgot,favored_against,1,Shen,56.33,6.37,su kit responde bien al patrón rival,heuristic_extended
+Urgot,favored_against,2,Gwen,56.47,3.03,puede abusar la fase temprana,heuristic_extended
+Urgot,favored_against,3,Singed,57.0,2.76,gana prioridad para objetivos,heuristic_extended
+Varus,countered_by,1,Nilah,47.05,-6.75,niega el plan principal del campeón,heuristic_extended
+Varus,countered_by,2,Aphelios,48.17,-2.45,tiene mejor rango y control de oleada,heuristic_extended
+Varus,countered_by,3,Twitch,45.34,-6.39,escala mejor y fuerza peleas favorables,heuristic_extended
+Varus,favored_against,1,Ziggs,55.5,2.6,puede abusar la fase temprana,heuristic_extended
+Varus,favored_against,2,Ezreal,56.71,5.85,gana prioridad para objetivos,heuristic_extended
+Varus,favored_against,3,Zed,52.34,7.53,puede abusar la fase temprana,heuristic_extended
+Vayne,countered_by,1,Malphite,46.19,-6.91,escala mejor y fuerza peleas favorables,heuristic_extended
+Vayne,countered_by,2,Sett,43.9,-3.92,castiga engages o dashes,heuristic_extended
+Vayne,countered_by,3,Yasuo,48.04,-3.38,supera la fase de línea,heuristic_extended
+Vayne,favored_against,1,Riven,52.69,4.65,su kit responde bien al patrón rival,heuristic_extended
+Vayne,favored_against,2,DrMundo,52.29,3.64,controla mejor los intercambios,heuristic_extended
+Vayne,favored_against,3,ChoGath,51.98,3.85,controla mejor los intercambios,heuristic_extended
+Veigar,countered_by,1,Mel,46.57,-7.02,niega el plan principal del campeón,heuristic_extended
+Veigar,countered_by,2,Brand,47.04,-7.14,niega el plan principal del campeón,heuristic_extended
+Veigar,countered_by,3,Orianna,48.01,-5.54,castiga engages o dashes,heuristic_extended
+Veigar,favored_against,1,Viktor,51.32,6.05,gana prioridad para objetivos,heuristic_extended
+Veigar,favored_against,2,Akali,53.63,7.55,puede abusar la fase temprana,heuristic_extended
+Veigar,favored_against,3,Illaoi,52.6,4.12,controla mejor los intercambios,heuristic_extended
+VelKoz,countered_by,1,Yasuo,45.88,-5.5,tiene mejor rango y control de oleada,heuristic_extended
+VelKoz,countered_by,2,Qiyana,43.94,-3.79,castiga engages o dashes,heuristic_extended
+VelKoz,countered_by,3,LeBlanc,47.41,-7.16,niega el plan principal del campeón,heuristic_extended
+VelKoz,favored_against,1,Katarina,53.29,4.26,gana prioridad para objetivos,heuristic_extended
+VelKoz,favored_against,2,Brand,53.53,4.47,puede abusar la fase temprana,heuristic_extended
+VelKoz,favored_against,3,Syndra,57.7,6.75,gana prioridad para objetivos,heuristic_extended
+Vex,countered_by,1,VelKoz,47.8,-7.31,tiene mejor rango y control de oleada,heuristic_extended
+Vex,countered_by,2,Hwei,44.28,-6.1,niega el plan principal del campeón,heuristic_extended
+Vex,countered_by,3,Cassiopeia,46.36,-6.87,castiga engages o dashes,heuristic_extended
+Vex,favored_against,1,Yasuo,57.05,5.26,gana prioridad para objetivos,heuristic_extended
+Vex,favored_against,2,Sylas,52.71,3.38,gana prioridad para objetivos,heuristic_extended
+Vex,favored_against,3,Kassadin,57.46,7.46,puede abusar la fase temprana,heuristic_extended
+Vi,countered_by,1,Poppy,45.1,-3.36,castiga engages o dashes,heuristic_extended
+Vi,countered_by,2,Nidalee,45.46,-2.42,escala mejor y fuerza peleas favorables,heuristic_extended
+Vi,countered_by,3,Nunu,48.12,-4.48,escala mejor y fuerza peleas favorables,heuristic_extended
+Vi,favored_against,1,KhaZix,54.21,3.04,controla mejor los intercambios,heuristic_extended
+Vi,favored_against,2,Hecarim,53.73,3.25,gana prioridad para objetivos,heuristic_extended
+Vi,favored_against,3,Diana,55.71,4.74,tiene mejor escalado en la composición,heuristic_extended
+Viego,countered_by,1,Warwick,45.23,-2.59,tiene mejor rango y control de oleada,heuristic_extended
+Viego,countered_by,2,Fiddlesticks,43.96,-4.77,supera la fase de línea,heuristic_extended
+Viego,countered_by,3,Nunu,43.69,-3.2,escala mejor y fuerza peleas favorables,heuristic_extended
+Viego,favored_against,1,RekSai,55.87,4.95,gana prioridad para objetivos,heuristic_extended
+Viego,favored_against,2,Kindred,55.79,5.46,gana prioridad para objetivos,heuristic_extended
+Viego,favored_against,3,Akali,56.14,6.42,puede abusar la fase temprana,heuristic_extended
+Viktor,countered_by,1,Anivia,48.44,-6.26,castiga engages o dashes,heuristic_extended
+Viktor,countered_by,2,Katarina,48.39,-3.09,castiga engages o dashes,heuristic_extended
+Viktor,countered_by,3,Ahri,48.28,-6.9,tiene mejor rango y control de oleada,heuristic_extended
+Viktor,favored_against,1,Ziggs,52.76,2.85,gana prioridad para objetivos,heuristic_extended
+Viktor,favored_against,2,Veigar,54.01,7.25,su kit responde bien al patrón rival,heuristic_extended
+Viktor,favored_against,3,Tristana,52.77,4.99,gana prioridad para objetivos,heuristic_extended
+Vladimir,countered_by,1,Urgot,47.46,-5.56,niega el plan principal del campeón,heuristic_extended
+Vladimir,countered_by,2,Mordekaiser,46.51,-4.87,niega el plan principal del campeón,heuristic_extended
+Vladimir,countered_by,3,Irelia,43.5,-3.59,escala mejor y fuerza peleas favorables,heuristic_extended
+Vladimir,favored_against,1,Tryndamere,57.09,5.76,puede abusar la fase temprana,heuristic_extended
+Vladimir,favored_against,2,Fiora,52.74,2.75,puede abusar la fase temprana,heuristic_extended
+Vladimir,favored_against,3,Talon,52.84,5.93,gana prioridad para objetivos,heuristic_extended
+Volibear,countered_by,1,Gnar,47.07,-3.04,castiga engages o dashes,heuristic_extended
+Volibear,countered_by,2,Camille,47.36,-3.99,tiene mejor rango y control de oleada,heuristic_extended
+Volibear,countered_by,3,Renekton,44.16,-7.44,tiene mejor rango y control de oleada,heuristic_extended
+Volibear,favored_against,1,Vayne,54.52,3.57,su kit responde bien al patrón rival,heuristic_extended
+Volibear,favored_against,2,Vladimir,52.99,3.95,tiene mejor escalado en la composición,heuristic_extended
+Volibear,favored_against,3,Quinn,53.1,5.48,su kit responde bien al patrón rival,heuristic_extended
+Warwick,countered_by,1,Skarner,44.17,-3.12,niega el plan principal del campeón,heuristic_extended
+Warwick,countered_by,2,Rammus,45.67,-5.06,escala mejor y fuerza peleas favorables,heuristic_extended
+Warwick,countered_by,3,Rengar,43.59,-7.49,escala mejor y fuerza peleas favorables,heuristic_extended
+Warwick,favored_against,1,Poppy,51.7,3.32,su kit responde bien al patrón rival,heuristic_extended
+Warwick,favored_against,2,Elise,51.79,2.21,gana prioridad para objetivos,heuristic_extended
+Warwick,favored_against,3,Nidalee,52.97,4.04,gana prioridad para objetivos,heuristic_extended
+Wukong,countered_by,1,Nidalee,48.32,-3.46,niega el plan principal del campeón,heuristic_extended
+Wukong,countered_by,2,KhaZix,46.33,-2.79,niega el plan principal del campeón,heuristic_extended
+Wukong,countered_by,3,Graves,44.66,-4.4,escala mejor y fuerza peleas favorables,heuristic_extended
+Wukong,favored_against,1,Rammus,51.93,5.97,controla mejor los intercambios,heuristic_extended
+Wukong,favored_against,2,JarvanIV,56.38,6.82,controla mejor los intercambios,heuristic_extended
+Wukong,favored_against,3,Vi,55.42,5.67,gana prioridad para objetivos,heuristic_extended
+Xayah,countered_by,1,Ezreal,45.27,-4.18,castiga engages o dashes,heuristic_extended
+Xayah,countered_by,2,Ziggs,45.67,-7.06,niega el plan principal del campeón,heuristic_extended
+Xayah,countered_by,3,KogMaw,46.82,-2.93,tiene mejor rango y control de oleada,heuristic_extended
+Xayah,favored_against,1,Tristana,57.05,5.94,puede abusar la fase temprana,heuristic_extended
+Xayah,favored_against,2,MissFortune,53.61,3.05,gana prioridad para objetivos,heuristic_extended
+Xayah,favored_against,3,Amumu,55.12,3.57,gana prioridad para objetivos,heuristic_extended
+Xerath,countered_by,1,Akali,46.3,-7.37,tiene mejor rango y control de oleada,heuristic_extended
+Xerath,countered_by,2,Katarina,44.02,-3.05,escala mejor y fuerza peleas favorables,heuristic_extended
+Xerath,countered_by,3,Annie,46.72,-7.01,escala mejor y fuerza peleas favorables,heuristic_extended
+Xerath,favored_against,1,Akshan,55.79,7.16,tiene mejor escalado en la composición,heuristic_extended
+Xerath,favored_against,2,Zoe,52.98,6.83,puede abusar la fase temprana,heuristic_extended
+Xerath,favored_against,3,Ekko,56.83,4.96,gana prioridad para objetivos,heuristic_extended
+XinZhao,countered_by,1,Rengar,44.63,-2.8,castiga engages o dashes,heuristic_extended
+XinZhao,countered_by,2,Amumu,46.96,-5.12,niega el plan principal del campeón,heuristic_extended
+XinZhao,countered_by,3,Elise,46.45,-7.39,supera la fase de línea,heuristic_extended
+XinZhao,favored_against,1,Skarner,55.92,4.47,tiene mejor escalado en la composición,heuristic_extended
+XinZhao,favored_against,2,Ivern,55.14,6.01,controla mejor los intercambios,heuristic_extended
+XinZhao,favored_against,3,Lillia,54.97,5.37,tiene mejor escalado en la composición,heuristic_extended
+Yasuo,countered_by,1,Renekton,45.49,-3.17,supera la fase de línea,curated_core
+Yasuo,countered_by,2,Malphite,44.9,-3.1,niega el plan principal del campeón,curated_core
+Yasuo,countered_by,3,Pantheon,44.07,-5.31,tiene mejor rango y control de oleada,curated_core
+Yasuo,favored_against,1,Azir,56.28,2.71,puede abusar la fase temprana,curated_core
+Yasuo,favored_against,2,Syndra,52.82,2.57,gana prioridad para objetivos,curated_core
+Yasuo,favored_against,3,Orianna,54.8,2.74,su kit responde bien al patrón rival,curated_core
+Yone,countered_by,1,Vex,44.9,-2.4,tiene mejor rango y control de oleada,curated_core
+Yone,countered_by,2,Akshan,47.64,-4.92,castiga engages o dashes,curated_core
+Yone,countered_by,3,Annie,47.82,-6.85,escala mejor y fuerza peleas favorables,curated_core
+Yone,favored_against,1,Azir,55.41,4.59,controla mejor los intercambios,curated_core
+Yone,favored_against,2,Viktor,53.83,5.48,su kit responde bien al patrón rival,curated_core
+Yone,favored_against,3,Kassadin,57.52,7.02,puede abusar la fase temprana,curated_core
+Yorick,countered_by,1,Darius,44.02,-6.04,supera la fase de línea,heuristic_extended
+Yorick,countered_by,2,DrMundo,43.39,-2.41,supera la fase de línea,heuristic_extended
+Yorick,countered_by,3,KSante,47.41,-3.5,escala mejor y fuerza peleas favorables,heuristic_extended
+Yorick,favored_against,1,Kled,51.94,6.5,controla mejor los intercambios,heuristic_extended
+Yorick,favored_against,2,Trundle,51.49,6.7,tiene mejor escalado en la composición,heuristic_extended
+Yorick,favored_against,3,Vayne,57.31,6.34,controla mejor los intercambios,heuristic_extended
+Yuumi,countered_by,1,Taric,47.44,-4.65,supera la fase de línea,heuristic_extended
+Yuumi,countered_by,2,Braum,43.53,-5.71,niega el plan principal del campeón,heuristic_extended
+Yuumi,countered_by,3,Seraphine,47.55,-6.99,supera la fase de línea,heuristic_extended
+Yuumi,favored_against,1,Milio,52.37,7.53,gana prioridad para objetivos,heuristic_extended
+Yuumi,favored_against,2,Brand,53.92,6.34,puede abusar la fase temprana,heuristic_extended
+Yuumi,favored_against,3,Leona,55.63,6.57,tiene mejor escalado en la composición,heuristic_extended
+Zac,countered_by,1,Ivern,44.55,-6.56,castiga engages o dashes,heuristic_extended
+Zac,countered_by,2,Nidalee,44.76,-6.69,tiene mejor rango y control de oleada,heuristic_extended
+Zac,countered_by,3,Viego,48.59,-6.32,niega el plan principal del campeón,heuristic_extended
+Zac,favored_against,1,Hecarim,54.83,6.86,controla mejor los intercambios,heuristic_extended
+Zac,favored_against,2,Rammus,57.3,4.49,controla mejor los intercambios,heuristic_extended
+Zac,favored_against,3,Vi,55.15,6.28,su kit responde bien al patrón rival,heuristic_extended
+Zed,countered_by,1,Qiyana,47.15,-4.65,niega el plan principal del campeón,heuristic_extended
+Zed,countered_by,2,Annie,46.54,-4.51,castiga engages o dashes,heuristic_extended
+Zed,countered_by,3,Lissandra,43.97,-4.2,castiga engages o dashes,heuristic_extended
+Zed,favored_against,1,Mel,51.89,6.83,puede abusar la fase temprana,heuristic_extended
+Zed,favored_against,2,Katarina,53.74,5.4,puede abusar la fase temprana,heuristic_extended
+Zed,favored_against,3,Veigar,51.62,2.35,gana prioridad para objetivos,heuristic_extended
+Zeri,countered_by,1,Smolder,46.4,-3.85,castiga engages o dashes,heuristic_extended
+Zeri,countered_by,2,Ashe,44.11,-3.11,supera la fase de línea,heuristic_extended
+Zeri,countered_by,3,Draven,43.99,-3.55,castiga engages o dashes,heuristic_extended
+Zeri,favored_against,1,Ezreal,52.13,4.11,tiene mejor escalado en la composición,heuristic_extended
+Zeri,favored_against,2,Jhin,54.53,7.1,puede abusar la fase temprana,heuristic_extended
+Zeri,favored_against,3,Malphite,51.88,3.37,su kit responde bien al patrón rival,heuristic_extended
+Ziggs,countered_by,1,Taliyah,48.69,-6.01,niega el plan principal del campeón,heuristic_extended
+Ziggs,countered_by,2,Anivia,46.53,-5.23,tiene mejor rango y control de oleada,heuristic_extended
+Ziggs,countered_by,3,Ahri,46.3,-7.07,supera la fase de línea,heuristic_extended
+Ziggs,favored_against,1,Azir,52.99,6.88,tiene mejor escalado en la composición,heuristic_extended
+Ziggs,favored_against,2,Orianna,56.96,3.67,controla mejor los intercambios,heuristic_extended
+Ziggs,favored_against,3,Cassiopeia,51.57,4.77,controla mejor los intercambios,heuristic_extended
+Zilean,countered_by,1,RenataGlasc,45.88,-4.75,castiga engages o dashes,heuristic_extended
+Zilean,countered_by,2,Senna,45.54,-2.55,supera la fase de línea,heuristic_extended
+Zilean,countered_by,3,Thresh,43.98,-7.73,castiga engages o dashes,heuristic_extended
+Zilean,favored_against,1,Leona,57.5,6.86,su kit responde bien al patrón rival,heuristic_extended
+Zilean,favored_against,2,Morgana,51.5,4.66,puede abusar la fase temprana,heuristic_extended
+Zilean,favored_against,3,Sona,51.89,5.36,controla mejor los intercambios,heuristic_extended
+Zoe,countered_by,1,Brand,46.34,-4.03,niega el plan principal del campeón,heuristic_extended
+Zoe,countered_by,2,LeBlanc,47.49,-6.42,niega el plan principal del campeón,heuristic_extended
+Zoe,countered_by,3,Hwei,43.39,-2.88,tiene mejor rango y control de oleada,heuristic_extended
+Zoe,favored_against,1,Naafiri,56.58,6.43,puede abusar la fase temprana,heuristic_extended
+Zoe,favored_against,2,Annie,54.68,6.93,tiene mejor escalado en la composición,heuristic_extended
+Zoe,favored_against,3,TwistedFate,55.29,2.95,su kit responde bien al patrón rival,heuristic_extended
+Zyra,countered_by,1,Alistar,44.1,-7.76,tiene mejor rango y control de oleada,heuristic_extended
+Zyra,countered_by,2,Sona,43.5,-6.38,supera la fase de línea,heuristic_extended
+Zyra,countered_by,3,Soraka,44.92,-4.31,escala mejor y fuerza peleas favorables,heuristic_extended
+Zyra,favored_against,1,Pyke,57.53,7.0,controla mejor los intercambios,heuristic_extended
+Zyra,favored_against,2,Lux,52.57,3.0,tiene mejor escalado en la composición,heuristic_extended
+Zyra,favored_against,3,RenataGlasc,54.61,4.7,su kit responde bien al patrón rival,heuristic_extended

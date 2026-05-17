@@ -1,0 +1,11 @@
+﻿context_id,context_name,time_window,context_description,strategic_effect,recommended_strategy_links
+TC01,early_game,Minuto 0-14,Fase de líneas e invasiones iniciales.,"Prioriza presión de línea, control de río y primer heraldo.","agresivo early, tempo composition"
+TC02,mid_game,Minuto 14-25,"Rotaciones, torres exteriores, segundo/tercer dragón.",El valor del control de visión y las rotaciones aumenta.,"jugar a objetivos, pick composition"
+TC03,late_game,Minuto 25+,"Barón, alma, dragón ancestral y peleas decisivas.",Escalado y ejecución de teamfight pesan más que la fase de línea.,"escalar late, front-to-back"
+TC04,objective_window,60-90 segundos antes de objetivo,Preparación de visión y presión previa.,"El equipo debe llegar antes, empujar oleadas y controlar entradas.","jugar a objetivos, objective snowball"
+TC05,lane_swap_context,Meta de rotaciones tempranas,Intercambio de líneas para proteger o acelerar recursos.,"Afecta prioridades de heraldo, placas y tempo de botlane.",macro composition
+TC06,scaling_meta,Meta de carries tardíos,Mayor valor de composiciones con ADC/mid de alto escalado.,Reduce valor de peleas forzadas sin objetivo.,"escalar late, protect hypercarry"
+TC07,engage_meta,Meta de iniciación fuerte,Soportes y junglas de engage tienen prioridad.,Premia visión profunda y castiga mala posición.,"wombo combo, dive composition"
+TC08,poke_meta,Meta de rango y asedio,Campeones de largo alcance controlan objetivos antes de la pelea.,"Exige paciencia, visión y manejo de oleadas.","poke composition, siege composition"
+TC09,fearless_draft,Formato competitivo con restricciones de repetición,Aumenta valor de flex picks y champion pool amplio.,Favorece campeones versátiles y planes alternativos.,"tempo composition, macro composition"
+TC10,baron_setup,Minuto 20+ con Nashor disponible,El equipo con presión lateral puede forzar visión oscura.,Splitpush y pick comp ganan valor.,"splitpush táctico, pick composition"

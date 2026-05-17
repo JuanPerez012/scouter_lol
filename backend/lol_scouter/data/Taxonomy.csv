@@ -1,0 +1,13 @@
+﻿strategy_label,definition,main_phase,example_champions,main_risk
+agresivo early,"Composición que busca ventaja temprana mediante presión de línea, invasiones y escaramuzas.",early,"Renekton, LeeSin, Nidalee",No extender partida sin ventaja.
+jugar a objetivos,"Plan centrado en dragones, heraldo, visión y control de zonas neutrales.",mid,"Maokai, Sejuani, Orianna",Necesita prioridad previa de líneas.
+escalar late,Plan de supervivencia temprana para llegar fuerte a peleas tardías.,late,"Smolder, Jinx, Azir",Evitar peleas malas antes de dos objetos.
+front-to-back,Pelear de frente hacia atrás protegiendo al carry principal.,mid-late,"Ornn, Jinx, Lulu",Cuidar flancos y amenazas de dive.
+poke composition,Desgastar antes de iniciar objetivos o torres.,mid,"Jayce, Varus, Xerath",No forzar pelea cerrada sin ventaja de vida.
+splitpush táctico,Presionar sidelanes para dividir al rival y ganar mapa.,mid-late,"Fiora, Jax, Camille",Requiere visión lateral y TP disponible.
+wombo combo,Buscar iniciaciones coordinadas con daño en área.,mid,"Malphite, Orianna, Wukong",Depende de cooldowns definitivos.
+protect hypercarry,Toda la composición juega alrededor del tirador o carry tardío.,late,"Jinx, Aphelios, Lulu",Vulnerable a dive y pick comp.
+tempo composition,Rotar antes que el rival y jugar con prioridad de mapa.,early-mid,"Taliyah, TwistedFate, Poppy",Pierde fuerza si no convierte presión.
+dive composition,Entrar a la backline rival con varias amenazas móviles.,early-mid,"Vi, Rakan, KaiSa",Riesgo alto si el rival tiene disengage.
+pick composition,Cazar objetivos aislados antes de pelear objetivos.,mid,"Ahri, Nautilus, Elise",Requiere visión profunda.
+macro composition,"Ganar por rotaciones, oleadas y control de visión.",mid-late,"TwistedFate, Ryze, Shen",Menos directa en peleas 5v5.

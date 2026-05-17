@@ -1,0 +1,25 @@
+﻿champion,flex_roles,competitive_regions,draft_priority,strategic_value,notes
+Gragas,Top/Jungle/Mid/Support,LCK/LPL/Worlds,S,"Engage, disengage, buen blind pick y adaptación a draft.",Muy usado como respuesta flexible por su utilidad.
+Poppy,Top/Jungle/Support,LCK/LPL,S,"Antidash, control de objetivos y respuesta a dives.",Alta prioridad cuando el rival depende de movilidad.
+Taliyah,Mid/Jungle,LCK/LPL/MSI,S,"Roaming, control de mapa, castigo a dashes.",Flex fuerte para esconder plan de early-mid.
+Karma,Mid/Support,LCK/LEC,A,"Presión de línea, poke y utilidad para carries.",Muy útil en composiciones de tempo y siege.
+Maokai,Top/Jungle/Support,LCK/LPL/Worlds,S,"Visión con saplings, engage, control de objetivos.",Flex clásico para objetivo y front-to-back.
+Nautilus,Support/Mid,LPL/LCK,A,"Engage point-and-click, pick potential.",Mid situacional para habilitar carries.
+Tristana,Mid/ADC,LCK/LPL/MSI,S,"Presión de torre, all-in y escalado AD.",Flex recurrente para castigar mids débiles.
+Yone,Top/Mid,LCK/LPL/Worlds,A,"Side lane, engage secundario y daño mixto.",Flex de carry mecánico para draft agresivo.
+Smolder,Mid/ADC,LCK/LEC/LPL,A,"Scaling, waveclear y daño tardío.",Flex cuando se quiere ocultar carry principal.
+Lucian,Mid/ADC,LCK/LPL,A,Lane pressure y snowball temprano.,Depende mucho de soporte/enchanter o setup.
+Jayce,Top/Mid,LCK/LPL,A,"Poke, presión lateral, ventaja de rango.",Flex útil para composiciones de siege.
+Rumble,Top/Mid/Jungle,LCK/LPL/MSI,A,Daño AP en área y control de zonas.,Valioso en peleas por dragón/heraldo.
+Sett,Top/Mid/Support,LCK/LPL,B,"Flex de engage, frontline y respuesta melee.","Más situacional, pero útil para ocultar draft."
+Sylas,Mid/Top,LCK/LPL/Worlds,A,Counterpick por definitivas rivales.,"Flex menor, pero muy relevante como respuesta."
+Galio,Mid/Support,LCK/LPL,B,"Peel, engage global y respuesta a dive.",Funciona bien con junglas agresivos.
+Swain,Mid/ADC/Support,LEC/LCK,B,"Teamfight extendido, sustain y control de zona.",Flex situacional contra composiciones de corto rango.
+Varus,ADC/Mid,LCK/LPL,A,Poke o DPS según build.,Permite ocultar intención de poke o front-to-back.
+Seraphine,Mid/ADC/Support,LEC/LCS/LCK,B,"Escalado, utilidad y teamfight.",Flex más usado en composiciones de protección.
+Neeko,Mid/Support,LCK/LPL,B,Engage sorpresa y control de pelea.,Flex situacional para pick/wombo.
+Pantheon,Top/Mid/Jungle/Support,LCK/LPL,B,"Presión temprana, roam y pick potential.",Relevante en drafts de snowball.
+Kennen,Top/Mid,LCK/LPL,B,Teamfight AP y amenaza de flanco.,"Flex bajo, pero útil como amenaza de composición."
+Ziggs,Mid/ADC,LCK/LEC,B,"Waveclear, siege y derribo de torres.",Flex para poke y control de oleadas.
+TwistedFate,Mid/Top,LCK/LPL,B,"Macro global, side lane y pick setup.",Flex táctico para mapa.
+Ryze,Mid/Top,LCK/LPL,B,"Escalado, side lane y macro con definitiva.",Flex histórico de alto nivel competitivo.

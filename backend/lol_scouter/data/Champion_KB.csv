@@ -1,0 +1,171 @@
+﻿champion_id,champion,primary_role,secondary_roles,champion_class,damage_profile,main_playstyle,strong_phase,scaling_level,engage_score,peel_score,mobility_score,cc_score,waveclear_score,objective_control_score,draft_value,notes
+1,Aatrox,Top,,marksman,AD,splitpush,mid-late,high,6,1,2,5,5,5,high priority,Aatrox funciona principalmente como splitpush en Top.
+2,Ahri,Mid,,support,mixed,poke,mid,medium,7,5,4,2,6,5,blindable,Ahri funciona principalmente como poke en Mid.
+3,Akali,Mid,,marksman,AP,control mage,mid-late,medium,1,6,4,6,8,2,high priority,Akali funciona principalmente como control mage en Mid.
+4,Akshan,Mid,,marksman,mixed,scaling,late,high,7,4,6,5,6,6,situational,Akshan funciona principalmente como scaling en Mid.
+5,Alistar,Support,,mage,mixed,engage,mid,medium,8,9,2,10,3,1,situational,Alistar funciona principalmente como engage en Support.
+6,Ambessa,Top,,tank,mixed,engage,mid,low,9,5,5,9,7,1,high priority,Ambessa funciona principalmente como engage en Top.
+7,Amumu,Jungle,,support,mixed,engage,mid,medium,10,3,7,9,5,9,blindable,Amumu funciona principalmente como engage en Jungle.
+8,Anivia,Mid,,mage,mixed,poke,mid,low,6,5,6,1,10,4,high priority,Anivia funciona principalmente como poke en Mid.
+9,Annie,Mid,,tank,mixed,pick composition,mid,low,6,6,4,6,9,6,situational,Annie funciona principalmente como pick composition en Mid.
+10,Aphelios,ADC,,marksman,AD,hypercarry,late,high,6,3,5,7,6,5,high priority,Aphelios funciona principalmente como hypercarry en ADC.
+11,Ashe,ADC,,marksman,mixed,scaling,late,high,2,3,7,3,1,1,counterpick,Ashe funciona principalmente como scaling en ADC.
+12,AurelionSol,Mid,,tank,mixed,poke,mid,medium,3,2,3,6,9,4,high priority,AurelionSol funciona principalmente como poke en Mid.
+13,Aurora,Mid,,support,mixed,roaming tempo,early-mid,low,7,3,8,4,6,4,situational,Aurora funciona principalmente como roaming tempo en Mid.
+14,Azir,Mid,,mage,mixed,scaling,late,high,7,6,4,1,8,4,situational,Azir funciona principalmente como scaling en Mid.
+15,Bard,Support,,support,mixed,engage,mid,medium,7,9,1,6,1,4,blindable,Bard funciona principalmente como engage en Support.
+16,BelVeth,Jungle,,mage,mixed,engage,mid,low,10,1,7,10,3,8,counterpick,BelVeth funciona principalmente como engage en Jungle.
+17,Blitzcrank,Support,,tank,mixed,engage,mid,high,10,9,6,7,5,2,high priority,Blitzcrank funciona principalmente como engage en Support.
+18,Brand,Mid,Support,mage,mixed,poke,mid,high,5,3,1,4,7,2,situational,Brand funciona principalmente como poke en Mid.
+19,Braum,Support,,tank,mixed,pick composition,mid,low,5,7,4,1,1,4,blindable,Braum funciona principalmente como pick composition en Support.
+20,Briar,Jungle,,marksman,mixed,tempo,early-mid,medium,7,1,1,5,4,8,situational,Briar funciona principalmente como tempo en Jungle.
+21,Caitlyn,ADC,,marksman,mixed,scaling,late,high,1,4,4,5,5,7,counterpick,Caitlyn funciona principalmente como scaling en ADC.
+22,Camille,Top,,support,mixed,front-to-back,late,low,4,5,3,4,5,2,blindable,Camille funciona principalmente como front-to-back en Top.
+23,Cassiopeia,Mid,,tank,mixed,poke,mid,low,6,2,1,6,10,7,blindable,Cassiopeia funciona principalmente como poke en Mid.
+24,ChoGath,Top,,assassin,AD,bruiser dive,mid,medium,6,6,1,2,6,5,counterpick,ChoGath funciona principalmente como bruiser dive en Top.
+25,Corki,Mid,,mage,mixed,poke,mid,high,7,2,4,3,9,5,high priority,Corki funciona principalmente como poke en Mid.
+26,Darius,Top,,tank,AD,splitpush,mid-late,low,3,2,3,4,4,7,high priority,Darius funciona principalmente como splitpush en Top.
+27,Diana,Jungle,,tank,mixed,objective control,mid,medium,5,4,4,6,5,10,situational,Diana funciona principalmente como objective control en Jungle.
+28,DrMundo,Top,,mage,AD,splitpush,mid-late,low,1,4,6,3,4,5,counterpick,DrMundo funciona principalmente como splitpush en Top.
+29,Draven,ADC,,marksman,mixed,front-to-back,late,low,3,5,6,5,7,5,counterpick,Draven funciona principalmente como front-to-back en ADC.
+30,Ekko,Jungle,Mid,support,mixed,tempo,early-mid,medium,5,5,6,2,5,8,situational,Ekko funciona principalmente como tempo en Jungle.
+31,Elise,Jungle,,mage,mixed,engage,mid,medium,6,4,2,6,6,6,situational,Elise funciona principalmente como engage en Jungle.
+32,Evelynn,Jungle,,assassin,AD,early gank,early,low,5,3,3,5,7,6,situational,Evelynn funciona principalmente como early gank en Jungle.
+33,Ezreal,ADC,,marksman,AD,lane pressure,early,medium,3,1,1,4,7,7,situational,Ezreal funciona principalmente como lane pressure en ADC.
+34,Fiddlesticks,Jungle,,fighter,AD,dive,early-mid,low,7,1,8,1,1,10,situational,Fiddlesticks funciona principalmente como dive en Jungle.
+35,Fiora,Top,,tank,mixed,engage,mid,high,10,1,4,8,5,2,high priority,Fiora funciona principalmente como engage en Top.
+36,Fizz,Mid,,assassin,mixed,roaming tempo,early-mid,high,3,5,8,4,8,7,situational,Fizz funciona principalmente como roaming tempo en Mid.
+37,Galio,Mid,,assassin,AP,control mage,mid-late,medium,1,3,6,3,8,6,blindable,Galio funciona principalmente como control mage en Mid.
+38,Gangplank,Top,,tank,mixed,engage,mid,high,6,5,3,7,5,1,blindable,Gangplank funciona principalmente como engage en Top.
+39,Garen,Top,,support,mixed,front-to-back,late,low,1,2,5,3,5,6,situational,Garen funciona principalmente como front-to-back en Top.
+40,Gnar,Top,,tank,AD,splitpush,mid-late,low,3,4,4,4,2,7,high priority,Gnar funciona principalmente como splitpush en Top.
+41,Gragas,Jungle,,mage,mixed,engage,mid,high,6,6,6,10,6,10,high priority,Gragas funciona principalmente como engage en Jungle.
+42,Graves,Jungle,,mage,mixed,objective control,mid,low,1,3,5,9,4,8,situational,Graves funciona principalmente como objective control en Jungle.
+43,Gwen,Top,,assassin,mixed,front-to-back,late,low,7,2,5,1,6,7,situational,Gwen funciona principalmente como front-to-back en Top.
+44,Hecarim,Jungle,,assassin,mixed,objective control,mid,high,3,1,6,6,6,7,high priority,Hecarim funciona principalmente como objective control en Jungle.
+45,Heimerdinger,Mid,,mage,AP,control mage,mid-late,high,7,2,6,7,9,6,situational,Heimerdinger funciona principalmente como control mage en Mid.
+46,Hwei,Mid,,support,mixed,pick composition,mid,medium,7,2,3,3,9,6,high priority,Hwei funciona principalmente como pick composition en Mid.
+47,Illaoi,Top,,tank,AD,side lane pressure,mid,high,3,2,7,6,4,2,high priority,Illaoi funciona principalmente como side lane pressure en Top.
+48,Irelia,Top,Mid,marksman,AD,splitpush,mid-late,high,4,1,6,2,1,3,situational,Irelia funciona principalmente como splitpush en Top.
+49,Ivern,Jungle,,assassin,mixed,engage,mid,low,6,1,5,7,7,10,situational,Ivern funciona principalmente como engage en Jungle.
+50,Janna,Support,,support,mixed,pick composition,mid,medium,5,10,7,6,6,2,blindable,Janna funciona principalmente como pick composition en Support.
+51,JarvanIV,Jungle,,mage,mixed,tempo,early-mid,medium,3,5,3,3,1,10,counterpick,JarvanIV funciona principalmente como tempo en Jungle.
+52,Jax,Top,,marksman,mixed,front-to-back,late,high,3,3,2,4,2,6,blindable,Jax funciona principalmente como front-to-back en Top.
+53,Jayce,Top,,assassin,mixed,poke,mid,medium,3,5,2,6,10,1,counterpick,Jayce funciona principalmente como poke en Top.
+54,Jhin,ADC,,marksman,AD,lane pressure,early,low,2,1,1,5,6,6,blindable,Jhin funciona principalmente como lane pressure en ADC.
+55,Jinx,ADC,,marksman,AD,hypercarry,late,high,3,3,2,5,2,5,counterpick,Jinx funciona principalmente como hypercarry en ADC.
+56,KSante,Top,,fighter,mixed,front-to-back,late,medium,1,6,1,4,3,5,situational,KSante funciona principalmente como front-to-back en Top.
+57,KaiSa,ADC,,marksman,mixed,front-to-back,late,medium,4,1,5,5,2,7,situational,KaiSa funciona principalmente como front-to-back en ADC.
+58,Kalista,ADC,,marksman,mixed,scaling,late,high,3,1,1,7,1,7,high priority,Kalista funciona principalmente como scaling en ADC.
+59,Karma,Support,,tank,AD,lane pressure,early,low,2,8,4,5,5,3,situational,Karma funciona principalmente como lane pressure en Support.
+60,Karthus,Jungle,,tank,AD,dive,early-mid,low,7,4,7,7,6,8,situational,Karthus funciona principalmente como dive en Jungle.
+61,Kassadin,Mid,,support,mixed,roaming tempo,early-mid,low,2,4,10,6,7,4,situational,Kassadin funciona principalmente como roaming tempo en Mid.
+62,Katarina,Mid,,fighter,mixed,scaling,late,high,3,4,3,2,10,6,situational,Katarina funciona principalmente como scaling en Mid.
+63,Kayle,Top,,marksman,mixed,front-to-back,late,high,7,1,3,3,5,4,high priority,Kayle funciona principalmente como front-to-back en Top.
+64,Kayn,Jungle,,fighter,AD,dive,early-mid,high,8,6,9,3,1,9,counterpick,Kayn funciona principalmente como dive en Jungle.
+65,Kennen,Top,,marksman,AD,bruiser dive,mid,medium,1,4,6,2,1,3,situational,Kennen funciona principalmente como bruiser dive en Top.
+66,KhaZix,Jungle,,marksman,AD,early gank,early,high,5,4,7,7,7,9,high priority,KhaZix funciona principalmente como early gank en Jungle.
+67,Kindred,Jungle,,fighter,mixed,objective control,mid,low,6,1,6,8,3,6,counterpick,Kindred funciona principalmente como objective control en Jungle.
+68,Kled,Top,,support,AD,bruiser dive,mid,high,6,3,1,5,6,2,blindable,Kled funciona principalmente como bruiser dive en Top.
+69,KogMaw,ADC,,marksman,mixed,front-to-back,late,medium,2,4,2,5,6,2,situational,KogMaw funciona principalmente como front-to-back en ADC.
+70,LeBlanc,Mid,,support,AP,control mage,mid-late,high,5,6,5,5,7,1,blindable,LeBlanc funciona principalmente como control mage en Mid.
+71,LeeSin,Jungle,,tank,AD,early gank,early,low,5,6,5,2,4,8,situational,LeeSin funciona principalmente como early gank en Jungle.
+72,Leona,Support,,tank,utility,disengage,mid-late,medium,3,9,3,7,3,1,high priority,Leona funciona principalmente como disengage en Support.
+73,Lillia,Jungle,,fighter,AD,early gank,early,medium,3,4,2,3,3,10,high priority,Lillia funciona principalmente como early gank en Jungle.
+74,Lissandra,Mid,,mage,mixed,scaling,late,high,1,4,7,1,10,6,situational,Lissandra funciona principalmente como scaling en Mid.
+75,Lucian,ADC,,marksman,mixed,scaling,late,high,1,5,5,5,3,4,situational,Lucian funciona principalmente como scaling en ADC.
+76,Lulu,Support,,tank,utility,disengage,mid-late,low,5,7,7,3,7,5,high priority,Lulu funciona principalmente como disengage en Support.
+77,Lux,Mid,Support,support,AP,control mage,mid-late,low,4,2,2,4,10,7,counterpick,Lux funciona principalmente como control mage en Mid.
+78,Malphite,Top,,mage,mixed,engage,mid,high,9,2,5,8,3,6,high priority,Malphite funciona principalmente como engage en Top.
+79,Malzahar,Mid,,support,mixed,poke,mid,high,2,2,5,5,7,6,counterpick,Malzahar funciona principalmente como poke en Mid.
+80,Maokai,Jungle,Support,assassin,mixed,objective control,mid,low,7,6,7,6,3,8,counterpick,Maokai funciona principalmente como objective control en Jungle.
+81,MasterYi,Jungle,,marksman,AD,early gank,early,high,3,2,4,2,2,6,counterpick,MasterYi funciona principalmente como early gank en Jungle.
+82,Mel,Mid,,tank,mixed,pick composition,mid,high,4,5,1,3,7,5,situational,Mel funciona principalmente como pick composition en Mid.
+83,Milio,Support,,support,mixed,pick composition,mid,high,6,9,2,3,2,6,blindable,Milio funciona principalmente como pick composition en Support.
+84,MissFortune,ADC,,marksman,mixed,scaling,late,high,1,1,3,5,7,6,situational,MissFortune funciona principalmente como scaling en ADC.
+85,Mordekaiser,Top,,fighter,mixed,engage,mid,high,7,1,4,9,2,7,counterpick,Mordekaiser funciona principalmente como engage en Top.
+86,Morgana,Support,,support,utility,peel,mid-late,medium,2,8,2,5,7,4,high priority,Morgana funciona principalmente como peel en Support.
+87,Naafiri,Mid,,marksman,mixed,roaming tempo,early-mid,low,3,6,9,5,10,4,blindable,Naafiri funciona principalmente como roaming tempo en Mid.
+88,Nami,Support,,mage,utility,peel,mid-late,low,7,6,3,6,6,5,counterpick,Nami funciona principalmente como peel en Support.
+89,Nasus,Top,,mage,AD,splitpush,mid-late,high,4,2,4,1,5,2,situational,Nasus funciona principalmente como splitpush en Top.
+90,Nautilus,Support,,mage,mixed,engage,mid,medium,6,9,5,9,3,7,situational,Nautilus funciona principalmente como engage en Support.
+91,Neeko,Mid,Support,mage,mixed,roaming tempo,early-mid,low,5,2,8,4,9,5,blindable,Neeko funciona principalmente como roaming tempo en Mid.
+92,Nidalee,Jungle,,marksman,mixed,tempo,early-mid,high,1,4,4,3,5,10,blindable,Nidalee funciona principalmente como tempo en Jungle.
+93,Nilah,ADC,,marksman,AD,lane pressure,early,low,1,5,1,1,5,4,blindable,Nilah funciona principalmente como lane pressure en ADC.
+94,Nocturne,Jungle,,assassin,AD,dive,early-mid,medium,10,4,10,1,2,8,counterpick,Nocturne funciona principalmente como dive en Jungle.
+95,Nunu,Jungle,,fighter,mixed,tempo,early-mid,low,2,5,7,3,1,6,blindable,Nunu funciona principalmente como tempo en Jungle.
+96,Olaf,Top,,support,AD,side lane pressure,mid,high,7,3,7,3,4,2,situational,Olaf funciona principalmente como side lane pressure en Top.
+97,Orianna,Mid,,assassin,AP,control mage,mid-late,medium,2,5,7,7,8,4,blindable,Orianna funciona principalmente como control mage en Mid.
+98,Ornn,Top,,mage,AD,bruiser dive,mid,low,4,2,7,1,5,4,high priority,Ornn funciona principalmente como bruiser dive en Top.
+99,Pantheon,Mid,,support,mixed,roaming tempo,early-mid,medium,2,4,6,5,9,7,counterpick,Pantheon funciona principalmente como roaming tempo en Mid.
+100,Poppy,Jungle,,mage,utility,utility,mid,medium,3,9,7,10,1,8,counterpick,Poppy funciona principalmente como utility en Jungle.
+101,Pyke,Support,,support,mixed,pick composition,mid,medium,7,7,5,1,5,2,high priority,Pyke funciona principalmente como pick composition en Support.
+102,Qiyana,Mid,,fighter,mixed,roaming tempo,early-mid,medium,4,1,7,2,6,3,counterpick,Qiyana funciona principalmente como roaming tempo en Mid.
+103,Quinn,Top,,marksman,AD,side lane pressure,mid,low,3,2,6,2,6,7,blindable,Quinn funciona principalmente como side lane pressure en Top.
+104,Rakan,Support,,mage,mixed,engage,mid,low,8,9,7,10,6,1,counterpick,Rakan funciona principalmente como engage en Support.
+105,Rammus,Jungle,,fighter,AD,dive,early-mid,low,7,6,6,3,2,6,situational,Rammus funciona principalmente como dive en Jungle.
+106,RekSai,Jungle,,assassin,mixed,engage,mid,medium,8,1,6,10,2,10,counterpick,RekSai funciona principalmente como engage en Jungle.
+107,Rell,Support,,support,utility,utility,mid,medium,2,10,4,9,1,2,blindable,Rell funciona principalmente como utility en Support.
+108,RenataGlasc,Support,,tank,mixed,engage,mid,high,6,9,6,10,2,2,counterpick,RenataGlasc funciona principalmente como engage en Support.
+109,Renekton,Top,,support,AD,lane pressure,early,high,7,3,4,3,6,6,counterpick,Renekton funciona principalmente como lane pressure en Top.
+110,Rengar,Jungle,,fighter,AD,dive,early-mid,medium,6,6,7,5,7,10,counterpick,Rengar funciona principalmente como dive en Jungle.
+111,Riven,Top,,assassin,AD,bruiser dive,mid,high,7,3,2,4,5,1,counterpick,Riven funciona principalmente como bruiser dive en Top.
+112,Rumble,Top,,tank,AD,splitpush,mid-late,high,4,6,4,6,5,3,situational,Rumble funciona principalmente como splitpush en Top.
+113,Ryze,Mid,,assassin,AP,control mage,mid-late,high,1,6,3,2,6,4,counterpick,Ryze funciona principalmente como control mage en Mid.
+114,Samira,ADC,,marksman,AD,lane pressure,early,high,5,6,5,2,3,6,blindable,Samira funciona principalmente como lane pressure en ADC.
+115,Sejuani,Jungle,,marksman,mixed,engage,mid,low,9,5,1,7,6,9,counterpick,Sejuani funciona principalmente como engage en Jungle.
+116,Senna,ADC,Support,marksman,mixed,poke,mid,high,4,1,1,2,6,5,situational,Senna funciona principalmente como poke en ADC.
+117,Seraphine,Support,,tank,utility,peel,mid-late,low,4,10,3,2,4,6,blindable,Seraphine funciona principalmente como peel en Support.
+118,Sett,Top,,support,AD,bruiser dive,mid,low,2,3,4,7,1,7,high priority,Sett funciona principalmente como bruiser dive en Top.
+119,Shaco,Jungle,,tank,mixed,objective control,mid,high,7,3,3,9,6,10,high priority,Shaco funciona principalmente como objective control en Jungle.
+120,Shen,Top,,marksman,AD,bruiser dive,mid,low,1,5,5,1,2,2,situational,Shen funciona principalmente como bruiser dive en Top.
+121,Shyvana,Jungle,,mage,AD,dive,early-mid,high,8,2,6,2,4,7,situational,Shyvana funciona principalmente como dive en Jungle.
+122,Singed,Top,,tank,AD,side lane pressure,mid,high,5,3,10,5,4,6,situational,Singed funciona principalmente como side lane pressure en Top.
+123,Sion,Top,,tank,mixed,engage,mid,low,10,3,1,10,7,2,situational,Sion funciona principalmente como engage en Top.
+124,Sivir,ADC,,marksman,AD,hypercarry,late,high,6,5,2,4,4,6,high priority,Sivir funciona principalmente como hypercarry en ADC.
+125,Skarner,Jungle,,support,mixed,tempo,early-mid,high,1,5,5,3,5,8,high priority,Skarner funciona principalmente como tempo en Jungle.
+126,Smolder,ADC,,marksman,AD,hypercarry,late,high,6,5,7,5,3,7,situational,Smolder funciona principalmente como hypercarry en ADC.
+127,Sona,Support,,tank,utility,disengage,mid-late,low,1,9,5,4,4,5,situational,Sona funciona principalmente como disengage en Support.
+128,Soraka,Support,,mage,utility,peel,mid-late,medium,3,6,1,2,2,2,high priority,Soraka funciona principalmente como peel en Support.
+129,Swain,Mid,Support,tank,mixed,poke,mid,low,4,5,2,3,6,5,blindable,Swain funciona principalmente como poke en Mid.
+130,Sylas,Mid,,fighter,AP,control mage,mid-late,medium,1,4,5,3,10,6,blindable,Sylas funciona principalmente como control mage en Mid.
+131,Syndra,Mid,,mage,mixed,roaming tempo,early-mid,medium,1,1,6,7,8,6,counterpick,Syndra funciona principalmente como roaming tempo en Mid.
+132,TahmKench,Top,,assassin,AD,bruiser dive,mid,low,6,1,7,7,2,7,high priority,TahmKench funciona principalmente como bruiser dive en Top.
+133,Taliyah,Jungle,Mid,support,mixed,roaming tempo,early-mid,low,1,3,7,2,4,9,blindable,Taliyah funciona principalmente como roaming tempo en Jungle.
+134,Talon,Jungle,Mid,tank,mixed,engage,mid,low,6,6,4,9,1,9,high priority,Talon funciona principalmente como engage en Jungle.
+135,Taric,Support,,tank,mixed,engage,mid,medium,6,6,4,7,4,6,blindable,Taric funciona principalmente como engage en Support.
+136,Teemo,Top,,assassin,mixed,engage,mid,high,7,4,1,8,2,1,counterpick,Teemo funciona principalmente como engage en Top.
+137,Thresh,Support,,mage,mixed,pick composition,mid,medium,7,9,7,1,6,2,situational,Thresh funciona principalmente como pick composition en Support.
+138,Tristana,Mid,ADC,tank,AD,lane pressure,early,low,5,5,3,3,9,7,situational,Tristana funciona principalmente como lane pressure en Mid.
+139,Trundle,Top,,assassin,mixed,front-to-back,late,high,2,5,4,3,1,5,situational,Trundle funciona principalmente como front-to-back en Top.
+140,Tryndamere,Top,,tank,AD,side lane pressure,mid,medium,6,3,7,6,7,6,high priority,Tryndamere funciona principalmente como side lane pressure en Top.
+141,TwistedFate,Mid,,marksman,mixed,pick composition,mid,medium,3,3,1,7,10,2,blindable,TwistedFate funciona principalmente como pick composition en Mid.
+142,Twitch,ADC,,marksman,AD,hypercarry,late,high,5,3,6,3,6,6,blindable,Twitch funciona principalmente como hypercarry en ADC.
+143,Udyr,Jungle,,tank,mixed,objective control,mid,medium,5,4,5,9,6,6,situational,Udyr funciona principalmente como objective control en Jungle.
+144,Urgot,Top,,assassin,AD,bruiser dive,mid,high,3,5,4,3,1,7,situational,Urgot funciona principalmente como bruiser dive en Top.
+145,Varus,ADC,,marksman,mixed,scaling,late,high,3,3,7,4,1,3,high priority,Varus funciona principalmente como scaling en ADC.
+146,Vayne,Top,ADC,fighter,AD,bruiser dive,mid,low,7,6,3,5,5,7,blindable,Vayne funciona principalmente como bruiser dive en Top.
+147,Veigar,Mid,,marksman,AP,control mage,mid-late,medium,4,3,7,6,8,1,counterpick,Veigar funciona principalmente como control mage en Mid.
+148,VelKoz,Mid,,fighter,mixed,pick composition,mid,low,2,1,6,3,10,5,high priority,VelKoz funciona principalmente como pick composition en Mid.
+149,Vex,Mid,,assassin,AP,control mage,mid-late,high,5,6,5,1,8,2,blindable,Vex funciona principalmente como control mage en Mid.
+150,Vi,Jungle,,mage,AD,dive,early-mid,high,6,1,6,5,7,9,blindable,Vi funciona principalmente como dive en Jungle.
+151,Viego,Jungle,,tank,AD,early gank,early,high,1,3,4,3,5,9,counterpick,Viego funciona principalmente como early gank en Jungle.
+152,Viktor,Mid,,tank,AP,control mage,mid-late,low,3,6,5,2,10,4,blindable,Viktor funciona principalmente como control mage en Mid.
+153,Vladimir,Top,Mid,tank,AD,splitpush,mid-late,medium,7,4,4,6,6,2,blindable,Vladimir funciona principalmente como splitpush en Top.
+154,Volibear,Top,,fighter,mixed,engage,mid,medium,7,3,6,9,5,5,counterpick,Volibear funciona principalmente como engage en Top.
+155,Warwick,Jungle,,marksman,AD,early gank,early,high,3,1,1,2,4,9,blindable,Warwick funciona principalmente como early gank en Jungle.
+156,Wukong,Jungle,,tank,mixed,engage,mid,low,8,5,6,6,3,10,counterpick,Wukong funciona principalmente como engage en Jungle.
+157,Xayah,ADC,,marksman,AD,hypercarry,late,high,3,1,3,5,5,1,blindable,Xayah funciona principalmente como hypercarry en ADC.
+158,Xerath,Mid,,tank,mixed,pick composition,mid,medium,7,2,2,2,7,5,situational,Xerath funciona principalmente como pick composition en Mid.
+159,XinZhao,Jungle,,tank,mixed,tempo,early-mid,high,6,4,3,2,2,7,situational,XinZhao funciona principalmente como tempo en Jungle.
+160,Yasuo,Top,Mid,fighter,AD,bruiser dive,mid,high,2,5,3,7,7,5,blindable,Yasuo funciona principalmente como bruiser dive en Top.
+161,Yone,Top,Mid,marksman,AD,side lane pressure,mid,high,3,4,6,3,2,3,high priority,Yone funciona principalmente como side lane pressure en Top.
+162,Yorick,Top,,assassin,AD,bruiser dive,mid,low,3,1,3,6,7,4,blindable,Yorick funciona principalmente como bruiser dive en Top.
+163,Yuumi,Support,,tank,utility,utility,mid,medium,2,6,1,8,7,4,blindable,Yuumi funciona principalmente como utility en Support.
+164,Zac,Jungle,,assassin,AD,early gank,early,high,1,1,3,2,1,8,blindable,Zac funciona principalmente como early gank en Jungle.
+165,Zed,Mid,,tank,mixed,scaling,late,high,7,4,6,3,10,6,counterpick,Zed funciona principalmente como scaling en Mid.
+166,Zeri,ADC,,marksman,mixed,front-to-back,late,high,5,6,4,6,4,6,high priority,Zeri funciona principalmente como front-to-back en ADC.
+167,Ziggs,Mid,ADC,assassin,AP,control mage,mid-late,medium,7,3,2,5,8,5,situational,Ziggs funciona principalmente como control mage en Mid.
+168,Zilean,Support,,mage,utility,utility,mid,high,6,6,4,9,6,1,blindable,Zilean funciona principalmente como utility en Support.
+169,Zoe,Mid,,mage,mixed,roaming tempo,early-mid,medium,4,1,8,1,8,1,counterpick,Zoe funciona principalmente como roaming tempo en Mid.
+170,Zyra,Support,,support,utility,utility,mid,low,3,7,4,6,1,1,high priority,Zyra funciona principalmente como utility en Support.

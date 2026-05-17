@@ -1,0 +1,13 @@
+﻿composition_name,description,typical_structure,objective_focus,execution_difficulty,linked_strategy_label
+front-to-back,"Pelea ordenada con frontline, peel y carry principal protegido.",Tank + control mage + ADC de DPS + soporte de peel.,dragón/barón cuando hay visión previa,media,"escalar late, protect hypercarry"
+poke composition,Composición que desgasta antes de iniciar objetivos o asedios.,Jayce/Varus/Xerath/Ziggs con rango y waveclear.,"torres, dragones antes de pelea directa",alta,jugar a objetivos
+splitpush táctico,Composición que presiona laterales y obliga al rival a dividirse.,Duelista fuerte + TP + waveclear central.,"torres laterales, Nashor por presión indirecta",alta,macro composition
+wombo combo,Composición de ultimates en área para pelea decisiva.,Malphite/Orianna/Wukong/Rakan/Kennen.,"dragón, barón, pelea 5v5",media,jugar a objetivos
+protect hypercarry,Plan de proteger un carry de alto DPS hasta late.,Jinx/Aphelios/KogMaw + Lulu/Milio/Braum.,barón y dragón ancestral,media,escalar late
+tempo composition,Composición que se mueve primero y acelera la partida.,Taliyah/TF/Poppy/LeeSin con prioridad temprana.,"heraldo, dives, visión profunda",media,agresivo early
+dive composition,Composición para entrar a la backline rival.,Vi/Rakan/KaiSa/Akali/Nocturne.,"torres, picks, pelea rápida",alta,agresivo early
+pick composition,Busca atrapar rivales antes del objetivo.,Ahri/Elise/Nautilus/Thresh/LeBlanc.,visión en jungla y río,media,jugar a objetivos
+siege composition,Asedio prolongado con poke y waveclear.,Caitlyn/Lux/Jayce/Ziggs.,torres exteriores y control de zona,media,poke composition
+disengage composition,Evita engages rivales y responde con kiteo.,Janna/Milio/Gragas/Poppy/Ashe.,defender torres y contrainiciar,media,front-to-back
+objective snowball,Busca asegurar dragones y heraldo temprano para cerrar rápido.,Jungla fuerte + bot prio + mid prio.,dragón/heraldo,media,jugar a objetivos
+scaling teamfight,Acepta early débil para ganar por peleas tardías.,Azir/Smolder/Jinx/Ornn/Orianna.,"barón, alma, ancestral",baja-media,escalar late
