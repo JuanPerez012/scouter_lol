@@ -169,12 +169,21 @@ PASO 10: Instalar dependencias del proyecto
 Instalar librerías necesarias:
 
 ```bash
-pip install numpy pandas matplotlib seaborn scikit-learn pillow opencv-python torch opencv-python-headless Pillow
+pip install numpy pandas matplotlib seaborn scikit-learn pillow opencv-python torch opencv-python-headless Pillow django-cors-headers
 ```
 
 ==================================================
 
-PASO 11: Aplicar migraciones
+PASO 11: Entrenar modelos
+
+```bash
+python backend/cv_scouter/scripts/train_pipeline.py
+python backend/lol_scouter/scripts/train_pipeline.py
+```
+
+==================================================
+
+PASO 12: Aplicar migraciones
 
 ```bash
 python manage.py migrate
@@ -182,7 +191,7 @@ python manage.py migrate
 
 ==================================================
 
-PASO 12: Ejecutar el servidor
+PASO 13: Ejecutar el servidor
 
 ```bash
 python manage.py runserver
@@ -196,7 +205,7 @@ Starting development server at http://127.0.0.1:8000/
 
 ==================================================
 
-PASO 13: Abrir el proyecto en el navegador
+PASO 14: Abrir el proyecto en el navegador
 
 Entrar a:
 
@@ -206,21 +215,12 @@ http://127.0.0.1:8000/
 
 ==================================================
 
-PASO 14: Detener el servidor
+PASO 15: Detener el servidor
 
 En terminal:
 
 ```text
 CTRL + C
-```
-
-==================================================
-
-PASO 15: Entrenar modelos
-
-```bash
-python backend/cv_scouter/scripts/train_pipeline.py
-python backend/lol_scouter/scripts/train_pipeline.py
 ```
 
 ==================================================
@@ -244,3 +244,29 @@ y finalmente:
 ```bash
 python manage.py runserver
 ```
+==================================================
+==================================================
+
+EJECUCIÓN DEL NLP
+
+```bash
+# 1. Entrenar (solo la primera vez)
+python backend/lol_scouter/scripts/train_pipeline.py
+
+# 2. Generar scouting (editar equipos en el script)
+python backend/lol_scouter/backend/scripts/run_scouting.py```
+
+
+EJECUCIÓN DE LA VISIÓN POR COMPUTADORA
+
+```bash
+# Entrenar (solo la primera vez)
+python backend/lol_scouter/scripts/train_pipeline.py
+```
+
+EJECUCIÓN DEL FRONTEND
+
+```bash
+cd frontend
+npm install # Solamente la primera vez
+npm run dev```

@@ -20,11 +20,13 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'corsheaders',
     'scouter_app',
-    'cv_app',                          # ← módulo CV integrado
+    'cv_app',
 ]
 
 MIDDLEWARE = [
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -81,3 +83,9 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # ─── RUTAS DE MÓDULOS BACKEND ────────────────────────────────
 SCOUTER_BASE_DIR = BASE_DIR / 'backend' / 'lol_scouter'
 CV_SCOUTER_BASE_DIR = BASE_DIR / 'backend' / 'cv_scouter'
+
+CORS_ALLOWED_ORIGINS = [
+    "http://localhost:5173",
+    "http://127.0.0.1:5173",
+]
+CORS_ALLOW_CREDENTIALS = True
