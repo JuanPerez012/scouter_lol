@@ -1,20 +1,21 @@
 import { useState, useCallback } from "react";
 import "./App.css";
-import ChampionSlot    from "./components/ChampionSlot";
-import StrategyPanel   from "./components/StrategyPanel";
-import Minimap         from "./components/Minimap";
-import NLPReport       from "./components/NLPReport";
+import ChampionSlot from "./components/ChampionSlot";
+import StrategyPanel from "./components/StrategyPanel";
+import Minimap from "./components/Minimap";
+import NLPReport from "./components/NLPReport";
+import champions from "./data/champions.json";
 
 // ─── Constantes ───────────────────────────────────────────────
-const LANES    = ["Top", "Jungle", "Mid", "ADC", "Support"];
+const LANES = ["Top", "Jungle", "Mid", "ADC", "Support"];
 const API_BASE = import.meta.env.VITE_API_URL || "http://127.0.0.1:8000";
 
 const emptyChamp = () => ({ name: "", icon: null });
-const emptyTeam  = () => LANES.map(() => emptyChamp());
+const emptyTeam = () => LANES.map(() => emptyChamp());
 
 const DEFAULT_POSITIONS = {
   blue: [
-    { x: 80,  y: 460 },
+    { x: 80, y: 460 },
     { x: 155, y: 345 },
     { x: 245, y: 280 },
     { x: 185, y: 185 },
@@ -33,10 +34,10 @@ const DEFAULT_POSITIONS = {
 
 async function callNLP(allyTeam, enemyTeam) {
   const res = await fetch(`${API_BASE}/api/nlp/scouting/`, {
-    method:  "POST",
+    method: "POST",
     headers: { "Content-Type": "application/json" },
-    body:    JSON.stringify({
-      ally_team:  allyTeam.map(c => c.name || "Desconocido"),
+    body: JSON.stringify({
+      ally_team: allyTeam.map(c => c.name || "Desconocido"),
       enemy_team: enemyTeam.map(c => c.name || "Desconocido"),
     }),
   });
@@ -46,9 +47,9 @@ async function callNLP(allyTeam, enemyTeam) {
 
 async function callCVPositions(strategy) {
   const res = await fetch(`${API_BASE}/api/cv/strategy-positions/`, {
-    method:  "POST",
+    method: "POST",
     headers: { "Content-Type": "application/json" },
-    body:    JSON.stringify({ strategy }),
+    body: JSON.stringify({ strategy }),
   });
   if (!res.ok) throw new Error(`CV error ${res.status}`);
   return res.json();
@@ -61,9 +62,9 @@ async function callCVIdentify(positions) {
   const y_positions = positions.blue.map(p => +(p.y / VB).toFixed(4));
 
   const res = await fetch(`${API_BASE}/api/cv/identify/`, {
-    method:  "POST",
+    method: "POST",
     headers: { "Content-Type": "application/json" },
-    body:    JSON.stringify({ x_positions, y_positions }),
+    body: JSON.stringify({ x_positions, y_positions }),
   });
   if (!res.ok) throw new Error(`CV identify error ${res.status}`);
   return res.json();
@@ -72,19 +73,22 @@ async function callCVIdentify(positions) {
 // ─── Componente principal ─────────────────────────────────────
 
 export default function App() {
-  const [blueTeam,   setBlueTeam]   = useState(emptyTeam());
-  const [redTeam,    setRedTeam]    = useState(emptyTeam());
-  const [positions,  setPositions]  = useState(DEFAULT_POSITIONS);
+  const [blueTeam, setBlueTeam] = useState(emptyTeam());
+  const [redTeam, setRedTeam] = useState(emptyTeam());
+  const [positions, setPositions] = useState(DEFAULT_POSITIONS);
 
   // Estado NLP
-  const [nlpResult,  setNlpResult]  = useState(null);
+  const [nlpResult, setNlpResult] = useState(null);
   const [nlpLoading, setNlpLoading] = useState(false);
-  const [nlpError,   setNlpError]   = useState(null);
+  const [nlpError, setNlpError] = useState(null);
 
   // Estado CV
-  const [cvResult,   setCvResult]   = useState(null);
-  const [cvLoading,  setCvLoading]  = useState(false);
-  const [cvError,    setCvError]    = useState(null);
+  const [cvResult, setCvResult] = useState(null);
+  const [cvLoading, setCvLoading] = useState(false);
+  const [cvError, setCvError] = useState(null);
+
+  // Estado de activación de dropdown
+  const [activeDropdown, setActiveDropdown] = useState(null);
 
   const updateBlue = (i, val) =>
     setBlueTeam(prev => prev.map((c, j) => j === i ? val : c));
@@ -120,7 +124,7 @@ export default function App() {
           // 3. Mover íconos del minimapa según las posiciones del CV
           setPositions({
             blue: cv.blue_positions,
-            red:  cv.red_positions,
+            red: cv.red_positions,
           });
           setCvResult({ strategy: mainStrategy, source: "nlp" });
         } catch (e) {
@@ -153,6 +157,13 @@ export default function App() {
 
   const isLoading = nlpLoading || cvLoading;
 
+  const selectedChampions = [
+    ...blueTeam,
+    ...redTeam
+  ]
+    .map(c => c.name?.toLowerCase())
+    .filter(Boolean);
+
   return (
     <div className="app">
       <header className="header">
@@ -166,9 +177,18 @@ export default function App() {
         <div className="team-panel">
           <div className="team-label blue">🔵 Tu Equipo</div>
           {LANES.map((lane, i) => (
-            <ChampionSlot key={`b-${lane}`} lane={lane} index={i}
-              value={blueTeam[i]} onChange={v => updateBlue(i, v)} team="blue" />
-          ))}
+            <ChampionSlot
+              key={`b-${lane}`}
+              lane={lane}
+              index={i}
+              value={blueTeam[i]}
+              onChange={v => updateBlue(i, v)}
+              team="blue"
+              champions={champions}
+              selectedChampions={selectedChampions}
+              activeDropdown={activeDropdown}
+              setActiveDropdown={setActiveDropdown}
+            />))}
         </div>
 
         {/* Centro */}
@@ -183,7 +203,7 @@ export default function App() {
           {(nlpError || cvError) && (
             <div className="error-box">
               {nlpError && <div>⚠ {nlpError}</div>}
-              {cvError  && <div>⚠ {cvError}</div>}
+              {cvError && <div>⚠ {cvError}</div>}
             </div>
           )}
 
@@ -196,8 +216,8 @@ export default function App() {
               title="NLP analiza los campeones → CV mueve el minimapa"
             >
               {nlpLoading ? "⚙ Analizando NLP..." :
-               cvLoading  ? "🗺 Calculando posiciones..." :
-               "⚔ Scouting Completo"}
+                cvLoading ? "🗺 Calculando posiciones..." :
+                  "⚔ Scouting Completo"}
             </button>
 
             <button
@@ -228,9 +248,18 @@ export default function App() {
         <div className="team-panel">
           <div className="team-label red">🔴 Rivales</div>
           {LANES.map((lane, i) => (
-            <ChampionSlot key={`r-${lane}`} lane={lane} index={i}
-              value={redTeam[i]} onChange={v => updateRed(i, v)} team="red" />
-          ))}
+            <ChampionSlot
+              key={`r-${lane}`}
+              lane={lane}
+              index={i}
+              value={redTeam[i]}
+              onChange={v => updateRed(i, v)}
+              team="red"
+              champions={champions}
+              selectedChampions={selectedChampions}
+              activeDropdown={activeDropdown}
+              setActiveDropdown={setActiveDropdown}
+            />))}
         </div>
       </main>
 
