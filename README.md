@@ -1,80 +1,10 @@
 GUIA PASO A PASO PARA PONER EN FUNCIONAMIENTO EL PROYECTO SCOUTER_LOL
 
-Esta guia resume todo el proceso realizado para ejecutar correctamente el proyecto de Django con TensorFlow en una maquina virtual de Ubuntu usando VirtualBox.
+Esta guia resume todo el proceso realizado para ejecutar correctamente el proyecto.
 
 ==================================================
 
-PASO 1: Crear la máquina virtual en VirtualBox
-
-Crear una VM de Ubuntu con:
-- mínimo 8 GB RAM recomendados
-- mínimo 60 GB de disco dinámico
-- virtualización habilitada:
-  - VT-x/AMD-V
-  - Paginación anidada
-
-==================================================
-
-PASO 2: Compartir la carpeta del proyecto desde Windows
-
-En VirtualBox:
-
-```text
-Configuración → Carpetas compartidas
-```
-
-Agregar la carpeta del proyecto de Windows:
-- activar:
-  - Automontar
-  - Hacer permanente
-
-==================================================
-
-PASO 3: Instalar Guest Additions
-
-Dentro de Ubuntu:
-
-```bash
-sudo apt update
-
-sudo apt install build-essential dkms linux-headers-$(uname -r)
-```
-
-Luego en VirtualBox:
-
-```text
-Dispositivos → Insertar imagen de CD de las Guest Additions
-```
-
-Ejecutar:
-
-```bash
-sudo /media/$USER/VBox_GAs*/VBoxLinuxAdditions.run
-```
-
-Reiniciar:
-
-```bash
-sudo reboot
-```
-
-==================================================
-
-PASO 4: Dar permisos a la carpeta compartida
-
-```bash
-sudo usermod -aG vboxsf $USER
-```
-
-Reiniciar nuevamente:
-
-```bash
-sudo reboot
-```
-
-==================================================
-
-PASO 5: Instalar herramientas básicas
+PASO 1: Instalar herramientas básicas
 
 ```bash
 sudo apt update
@@ -84,7 +14,7 @@ sudo apt install git python3-pip python3-venv python3-full
 
 ==================================================
 
-PASO 6: Instalar Miniconda
+PASO 2: Instalar Miniconda
 
 Descargar Miniconda para Linux x86_64.
 
@@ -112,7 +42,7 @@ source ~/.bashrc
 
 ==================================================
 
-PASO 7: Crear entorno virtual compatible con TensorFlow
+PASO 3: Crear entorno virtual compatible con TensorFlow
 
 Crear entorno Conda con Python 3.11:
 
@@ -134,7 +64,7 @@ Verificar que aparezca:
 
 ==================================================
 
-PASO 8: Ir a la carpeta del proyecto
+PASO 4: Ir a la carpeta del proyecto
 
 Ejemplo:
 
@@ -150,7 +80,7 @@ ls
 
 ==================================================
 
-PASO 9: Instalar Django
+PASO 5: Instalar Django
 
 ```bash
 pip install Django==4.1
@@ -164,7 +94,7 @@ python -m django --version
 
 ==================================================
 
-PASO 10: Instalar dependencias del proyecto
+PASO 6: Instalar dependencias del proyecto
 
 Instalar librerías necesarias:
 
@@ -174,7 +104,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn pillow opencv-python to
 
 ==================================================
 
-PASO 11: Entrenar modelos
+PASO 7: Entrenar modelos
 
 ```bash
 python backend/cv_scouter/scripts/train_pipeline.py
@@ -183,7 +113,7 @@ python backend/lol_scouter/scripts/train_pipeline.py
 
 ==================================================
 
-PASO 12: Aplicar migraciones
+PASO 8: Aplicar migraciones
 
 ```bash
 python manage.py migrate
@@ -191,7 +121,7 @@ python manage.py migrate
 
 ==================================================
 
-PASO 13: Ejecutar el servidor
+PASO 9: Ejecutar el servidor
 
 ```bash
 python manage.py runserver
@@ -205,7 +135,7 @@ Starting development server at http://127.0.0.1:8000/
 
 ==================================================
 
-PASO 14: Abrir el proyecto en el navegador
+PASO 10: Abrir el proyecto en el navegador
 
 Entrar a:
 
@@ -215,7 +145,7 @@ http://127.0.0.1:8000/
 
 ==================================================
 
-PASO 15: Detener el servidor
+PASO 11: Detener el servidor
 
 En terminal:
 
@@ -225,7 +155,7 @@ CTRL + C
 
 ==================================================
 
-PASO 16: Activar nuevamente el entorno en futuras sesiones
+PASO 12: Activar nuevamente el entorno en futuras sesiones
 
 Cada vez que abras Ubuntu:
 
