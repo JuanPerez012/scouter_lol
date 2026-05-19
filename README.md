@@ -184,14 +184,15 @@ EJECUCIÓN DEL NLP
 python backend/lol_scouter/scripts/train_pipeline.py
 
 # 2. Generar scouting (editar equipos en el script)
-python backend/lol_scouter/backend/scripts/run_scouting.py```
+python backend/lol_scouter/backend/scripts/run_scouting.py
+```
 
 
 EJECUCIÓN DE LA VISIÓN POR COMPUTADORA
 
 ```bash
 # Entrenar (solo la primera vez)
-python backend/lol_scouter/scripts/train_pipeline.py
+python backend/cv_scouter/scripts/train_pipeline.py
 ```
 
 EJECUCIÓN DEL FRONTEND
